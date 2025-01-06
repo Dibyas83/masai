@@ -4,229 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/masai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/13decexceptionhandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/14decfilehandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/17decfilehandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/19-20decGenerics and Functional Programmin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/21decconcurrrencymultithreading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/23decproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/ACSV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/class/5decoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/class/6decoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/class/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/class/funcdef.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/class/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/deletfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/gassign4/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/gassign4/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/gassign4/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/gassign4/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/gassign4/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/gassign4/18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/gassign4/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/grass4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/matplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/newt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/nump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/ascichar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/gradedassignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/mid2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/30novmultilist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/4nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/array2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/asignment conditional statment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/assignment graded.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/binarysearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/carpet cost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/childlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/corona puchaspow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/diagonalcrossingthekey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/div.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/election.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/exam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/find begendcount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/findsuma,b fortarget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/graded3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/greatest com div.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/hj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/initialize dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/join  func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/kl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/masai election.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/max and min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/oddsum even sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/q11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/q7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/q9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/rev21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/revnum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/sum in matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/targetsuminarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graded assignment1/wall area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan/project/git github.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan/project/project1todolist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan/project/project2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan/project/project3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan/project/project4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan/project/project5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan/project/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/janrev/oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/create enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/createlambda,arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/diagonal_sum).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/exp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/how many integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/jk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/map alphtoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/matrix row col diag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/merge set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/merge sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/min bet0&amp;1000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/range2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/sds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/test54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new/triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/14nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/18nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/20n0vmulti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/28nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/30nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/7nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/9&amp;12nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/datastructure/23novdatastructure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/datastructure/28novdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/datastructure/createdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/datastructure/createset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/datastructure/createtuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/datastructure/keys and values in dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/datastructure/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/dict/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/16nov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/28inputt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/30input assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/input dict matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/input matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/input username pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/input2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/inputsimple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/input/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/oops/2-5novoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/oops/21novoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/oops/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/oops/createclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/oops/createfunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/timespace/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/timespace/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/timespace/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/timespace/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/10oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/10octq&amp;a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/11oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/19oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/210ctsol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/22oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/24oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/26octmulti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/27octsol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/27octsol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/29octmulti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/310ctstringsol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/5oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/conditional statementloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/createlist .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/createloop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/createstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/gasstationbest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/imitialize arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/initialization of arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/list2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/list3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/mix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/muliplitable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/multilist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/oct1819qa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/rev list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/reverse string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/sumofdigitsinnum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/ternaryoperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oct/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/q7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/q8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets and tuples/q9.py" afterDir="false" />
+    <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
+      <change beforePath="$PROJECT_DIR$/.idea/masai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Masai.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -479,8 +260,30 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.test">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="masai" />
+      <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -502,7 +305,7 @@
       <method v="2" />
     </configuration>
     <configuration name="project4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="masai" />
+      <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -524,7 +327,7 @@
       <method v="2" />
     </configuration>
     <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="masai" />
+      <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -546,7 +349,7 @@
       <method v="2" />
     </configuration>
     <configuration name="targetsuminarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="masai" />
+      <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -568,7 +371,7 @@
       <method v="2" />
     </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="masai" />
+      <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -587,6 +390,86 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -615,6 +498,15 @@
       <option name="presentableId" value="Default" />
       <updated>1729074772737</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1736178093014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736178093014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -627,6 +519,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st time" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st time" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
