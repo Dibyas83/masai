@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/masai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/13decexceptionhandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/14decfilehandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/17decfilehandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/19-20decGenerics and Functional Programmin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/21decconcurrrencymultithreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/23decproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/ACSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/class/5decoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/class/6decoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/class/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/class/funcdef.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/class/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/deletfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/filehandlingassign4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/gassign4/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/gassign4/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/gassign4/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/gassign4/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/gassign4/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/gassign4/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/gassign4/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/grass4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/inheri method overiding6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/matplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/newt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/nump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/ascichar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/gradedassignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/mid2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/30novmultilist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/4nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/array2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/asignment conditional statment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/assignment graded.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/carpet cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/childlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/corona puchaspow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/diagonalcrossingthekey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/div.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/election.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/find begendcount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/findsuma,b fortarget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/graded3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/greatest com div.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/hj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/initialize dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/join  func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/kl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/masai election.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/max and min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/oddsum even sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/q11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/rev21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/revnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/sum in matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/targetsuminarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graded assignment1/wall area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jan/project/git github.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jan/project/project1todolist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jan/project/project2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jan/project/project3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jan/project/project4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jan/project/project5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jan/project/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/janrev/oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/create enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/createlambda,arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/diagonal_sum).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/how many integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/jk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/map alphtoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/matrix row col diag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/merge set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/merge sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/min bet0&amp;1000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/range2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/sds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/test54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/14nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/18nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/20n0vmulti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/28nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/30nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/7nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/9&amp;12nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/datastructure/23novdatastructure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/datastructure/28novdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/datastructure/createdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/datastructure/createset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/datastructure/createtuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/datastructure/keys and values in dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/datastructure/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/dict/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/16nov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/28inputt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/30input assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/input dict matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/input matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/input username pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/input2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/inputsimple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/input/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/oops/2-5novoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/oops/21novoops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/oops/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/oops/createclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/oops/createfunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/timespace/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/timespace/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/timespace/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/timespace/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/10oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/10octq&amp;a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/11oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/19oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/210ctsol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/22oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/24oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/26octmulti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/27octsol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/27octsol2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/29octmulti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/310ctstringsol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/5oct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/conditional statementloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/createlist .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/createloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/createstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/gasstationbest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/imitialize arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/initialization of arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/list2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/list3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/mix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/muliplitable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/multilist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/oct1819qa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/rev list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/reverse string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/sumofdigitsinnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/ternaryoperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oct/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets and tuples/q9.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nW2zNwR1SWxhfTpaoL8N6n1SYE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10octq&amp;a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13decexceptionhandling (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.13decexceptionhandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14decfilehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17decfilehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-20decGenerics and Functional Programmin (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-20decGenerics and Functional Programmin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19decGenerics and Functional Programmin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1decoopsass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-4nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-5nov (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20n0vmulti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.210ctsol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21decconcurrrencymultithreading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21novoops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23novdatastructure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26octmulti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27octsol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27octsol2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.27octsol2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28inputt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.28inputt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28novdict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.29oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30input assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30novmultilist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.310ctstringsol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5decoops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6decoops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9&amp;12nov (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.9&amp;12nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ACESV (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ascichar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.asignment conditional statment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment graded.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binarysearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.childlist (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional statementloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.corona puchaspow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create enumerate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createclass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createdict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createfunc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createlambda,arrays (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.createlambda,arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createtuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.def.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfgdg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfgfdg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diagonal_sum).executor&quot;: &quot;Run&quot;,
+    &quot;Python.diagonalcrossingthekey.executor&quot;: &quot;Run&quot;,
+    &quot;Python.div.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.election.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptionhandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandlingassign.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandlingassign2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find begendcount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findsuma,b fortarget.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fjh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gasstationbest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graded3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gradedassignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grass4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.grass4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.how many integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input dict matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input username pass (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.input2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputsimple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.join  func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.join.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda,.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.list create.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.map alphtoint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masai election.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix row col diag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max and min.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mid2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.muliplitable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nump.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oct1819qa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oddsum even sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.range,2dlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reduce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rev21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revnum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringcreate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum in matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t.executor&quot;: &quot;Run&quot;,
+    &quot;Python.targetsuminarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ternaryoperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test54.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uiiu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.username pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wall area.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a2z/PycharmProjects/masai/jan/project&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a2z\PycharmProjects\masai\jan\project" />
+      <recent name="C:\Users\a2z\PycharmProjects\masai\dec" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a2z\PycharmProjects\masai\nov\oops" />
+      <recent name="C:\Users\a2z\PycharmProjects\masai\oct" />
+      <recent name="C:\Users\a2z\PycharmProjects\masai\nov\datastructure" />
+      <recent name="C:\Users\a2z\PycharmProjects\masai\dec\class" />
+      <recent name="C:\Users\a2z\PycharmProjects\masai" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/janrev" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/janrev/oops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jan/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jan/project/project4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graded assignment1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graded assignment1/search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="targetsuminarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graded assignment1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graded assignment1/targetsuminarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jan/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jan/project/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.project4" />
+        <item itemvalue="Python.search" />
+        <item itemvalue="Python.targetsuminarray" />
+        <item itemvalue="Python.oops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="" />
+      <created>1729074772737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729074772737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graded assignment1/20.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graded assignment1/query.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/graded assignment1/functions.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nov/datastructure/28novdict.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new/merge sorted.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dec/inheri method overiding6.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
