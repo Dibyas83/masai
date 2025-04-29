@@ -5,9 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
-      <change afterPath="$PROJECT_DIR$/quicksort/pivas1st.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quicksort/randomized.py" beforeDir="false" afterPath="$PROJECT_DIR$/quicksort/randomized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/colors of vertices of graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/backtracking/colors of vertices of graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/backtracking/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/nqeen.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/backtracking/nqeen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/backtracking/permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/set of target sum subset.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/backtracking/set of target sum subset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtracking/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/backtracking/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/coinsused.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/dp/coinsused.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/spiderman.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/dp/spiderman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/dp/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ga4/knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/ga4/knight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/codinsoldiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/codinsoldiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/divisorremainder.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/divisorremainder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/eq3.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/eq3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/equation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/equationx.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/equationx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/index in sortedand rotated list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/index in sortedand rotated list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/min in sortedand rotated list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/min in sortedand rotated list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lowerandupperbound/searchin sortedand rotated list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/lowerandupperbound/searchin sortedand rotated list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mergesort/countinversions.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/mergesort/countinversions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/AVL Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/AVL Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/box stacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/box stacking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/geekpuzzzle.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/geekpuzzzle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/grid and matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/grid and matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/grid and matrix2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/grid and matrix2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/kth ele by insertionsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/kth ele by insertionsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/kth ele by mergesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/kth ele by mergesort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/kth ele by quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/kth ele by quicksort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/kth.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/kth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/kthele of mergedset.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/kthele of mergedset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/logarthmic fnc.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/logarthmic fnc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/managestackbrick.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/managestackbrick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/managestackbrick2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/managestackbrick2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/maxnonadjacent.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/maxnonadjacent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/mergesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/mergesort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/neetoddsubarry.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/neetoddsubarry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/perm and comb.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/perm and comb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/platform.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/platform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/puzzle.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/puzzle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/remove duplicate rom sorted array.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/remove duplicate rom sorted array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/return the position of the kth ele.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/return the position of the kth ele.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/sellstock.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/sellstock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/subarrayoddsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/subarrayoddsum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/subarrayoddsum2algo.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/subarrayoddsum2algo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/towers.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/towers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/tutpuzzle.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/tutpuzzle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/wordpuzl2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/wordpuzl2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/wordpuzzle.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/problems/wordpuzzle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/fib.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/fib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/merging arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/merging arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,15 +320,15 @@
       <recent name="C:\Users\a2z\PycharmProjects\masai\dec" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa" />
       <recent name="C:\Users\a2z\PycharmProjects\masai\nov\oops" />
       <recent name="C:\Users\a2z\PycharmProjects\masai\oct" />
       <recent name="C:\Users\a2z\PycharmProjects\masai\nov\datastructure" />
       <recent name="C:\Users\a2z\PycharmProjects\masai\dec\class" />
-      <recent name="C:\Users\a2z\PycharmProjects\masai" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="oops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fg">
+    <configuration name="fg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,11 +337,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/janrev" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.13 (PythonProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/janrev/oops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,11 +441,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fg" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.project4" />
         <item itemvalue="Python.search" />
         <item itemvalue="Python.targetsuminarray" />
-        <item itemvalue="Python.oops" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +473,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736178093014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1745917256751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745917256751</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1745917376476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745917376476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
