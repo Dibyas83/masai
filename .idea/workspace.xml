@@ -4,182 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
-      <change afterPath="$PROJECT_DIR$/backtracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/0/1 Knapsack using Branch and Bound.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/Dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/MST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/MST/prims.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/adv rec  and backtrack/buywith_k_coins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/adv rec  and backtrack/generatesubsequences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/adv rec  and backtrack/nqueens_byrow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/adv rec  and backtrack/rat path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/adv rec  and backtrack/word search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/algebra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/bst/avl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/bst/graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/bst/hashing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/bst/heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Box Stacking Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Climbing stairs to reach the top.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Count ways to reach the nth stair using step 1, 2 or 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Floyd Warshall Algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Grid Unique Paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/House Robber – Maximum possible stolen value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/LCS (Longest Common Subsequence) of three strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Largest divisible subset in array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Longest Common Increasing Subsequence (LCS + LIS).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Longest Common Substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Longest Palindromic Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Maximum size square sub-matrix with all 1s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Min Sum in a Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Minimum insertions to form a palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Number of permutation with K inversions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Painting Fence Algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Subset Sum Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Unbounded Knapsack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Unique paths in a Grid with Obstacles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Ways to Partition a Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/Weighted Job Scheduling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/1st to Kth shortest path lengths from node 1 to N in given Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Bellman–Ford Algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Minimum Cost Path with Left, Right, Bottom and Up moves allowed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Minimum steps to reach target by a Knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Print negative weight cycle in a Directed Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Shortest Path in Directed Acyclic Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Shortest path in a Binary Maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Shortest path with one curved edge in an undirected Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Snake and Ladder Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/bellman/Word Ladder – Shortest Chain To Reach Target Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/find amount of water in a given glass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/knapsack/1 Knapsack Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/knapsack/Double Knapsack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/knapsack/Maximize the number of segments of length x, y and z.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/knapsack/Maximum number of segments of lengths a, b and c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/knapsack/Minimum Coins to Make Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/knapsack/Partition a Set into Two Subsets of Equal Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/knapsack/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/l com subseq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/mst/Kruskal’s Minimum Spanning Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/mst/Minimum cost to connect all cities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/mst/Minimum cost to provide water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/mst/Prim’s Algorithm for Minimum Spanning Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dp/nth row pascalstriangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/expo and polynom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/Largest palindromic number by permuting digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/Lexicographically largest subsequence with every char at least k times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/Max Satisfied Customers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/Min Fibonacci Terms with Sum K.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/Min initial vertices to traverse matrix with constraints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/Paper cut into min squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/max ele that can be made equal with k updates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/min cost to cut a board into squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/minimize cash flow bet fried.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/greedy examples/minimize maxheight diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/impliment greedy tech/add,sub cost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/impliment greedy tech/atilia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/impliment greedy tech/buysellstock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/impliment greedy tech/chaiwala.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/impliment greedy tech/parking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/impliment greedy tech/sherlock suit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/abonly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/dance night.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/min_platform required.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/partyor not.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/roundtable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/samosa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/stack of brick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/int to greedy/steal as much.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/mergesort/descmergesort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/mergesort/inc_mergesort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/mergesort/quick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/quicksort/countinversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/quicksort/descendingsort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/quicksort/descquiksort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/quicksort/newindex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/quicksort/sumpair less than k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/allpossiblepath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/coins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/comb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/combinationalsum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/dfsbacktrck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/freqk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/goand returnin matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/longest possible route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/min steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/nqueen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/pages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/reach candyshop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/shortestpathwithmines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/sukoku_rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/rec backtrack/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/10or20money.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/binaryequivalent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/gcd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/giftpurchase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/midencryption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/permutationconditional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/staircase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/sum of list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/traversing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/tribonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/stack and que/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix manipulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy.matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymerphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2 submit/Held-karp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2 submit/Held-karp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2 submit/appr0x.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2 submit/use dp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/conway/congeek.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/conway/conways.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/conway/githubcon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/conway/gitpygame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/conway/grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/conway/simulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/conway/tim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/Held-karp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/appr0x.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/use dp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/use mst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/using Branch And Bound.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/using Reduced Matrix Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project module 2/travelling salesman/using permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/Event Handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/pygame rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame/pygame1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter/tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuplea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Masai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Masai.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/dp/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/dp/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/mergesort/countinversions.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/mergesort/countinversions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/quicksort/pivas1st.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/quicksort/pivas1st.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/quicksort/randomized.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/quicksort/randomized.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/fib.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/fib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/new/map.py" afterDir="false" />
-    </list>
+    <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -505,11 +330,11 @@
       <recent name="C:\Users\a2z\PycharmProjects\masai\dec" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\masai" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\project module 2\conway" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\pygame" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\tkinter" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\dp\mst" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\dp\bellman" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Held-karp">
@@ -681,7 +506,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745921601197</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1747501454437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747501454437</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1747501658418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747501658418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
