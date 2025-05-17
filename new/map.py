@@ -135,7 +135,7 @@ we use an inbuilt function to get extract the lowercase string and extract the N
 # Python3 code to demonstrate working of
 # Print Alphabets till N
 # Using string.ascii_lowercase + slicing
-import string
+import stringa
 
 # initialize N
 N = 20
@@ -262,7 +262,7 @@ print("Alphabets till N are : " + str(res))
 """
 
 """
-from string import ascii_letters
+from stringa import ascii_letters
 print([ascii_letters.index(letter) + 1 for letter in ["a", "B", "h", "R"]])
 
 

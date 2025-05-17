@@ -71,7 +71,7 @@ def Fmemo(n):
         if n <= 1:
             memo[n] = n
         else:
-            memo[n] = Fmemo(n - 1) + Fmemo(n - 2)
+            memo[n] = Fmemo(n - 1) + Fmemo(n - 2) # feb3 = feb2 + feb1=1+1=2,feb6 = feb5 + feb4
         return memo[n]  # goes to top no need to recompute memo[6] = fmemo5 + fmemo4 is store.fmemo5 becomes f34 + f3
 #    and f4 becomes f3 + f2
 
