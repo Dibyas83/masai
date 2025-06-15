@@ -1,12 +1,10 @@
 
 
 """
-Python List methods
-Last Updated : 24 Oct, 2024
-Python list methods are built-in functions that allow us to perform various operations on lists, such as adding, removing, or modifying elements. In this article, we’ll explore all Python list methods with a simple example.
+ordered = indexed
+mutable = can be changed
+separated by comas ,multiple data types can be inside it.
 
-List Methods
-Let’s look at different list methods in Python:
 
 append(): Adds an element to the end of the list.
 copy(): Returns a shallow copy of the list.
@@ -208,7 +206,44 @@ Output
 
 """
 
+# slicing is like  string slicing
 
+a = ["app","iot","ui","doc","digit","user"]
+print(a[2],"1")
+print(a[1:2],"2")
+print(a[:2],"3")
+print(a[::2],"4") # step of 2
+print(a[-2],"5")
+print(a[-1],"6")
+print(a[-3:-1],"7") # -3,-2 printed
+print(a[::-1],"7") # -1 steps
+print(a[::-1],"7") # -1 steps
+
+g =0
+while g < len(a):
+    print(a[g])
+    g += 1
+
+print(a.count("ui"))
+a.insert(3,"ui")
+print(a)
+a.remove("digit")
+a.pop(2)
+print(a)
+b = []
+b = a.copy()
+print(b)
+b.append("help")
+b.insert(5,"ok")
+print(a)
+print(b)
+a.extend(b)
+a.reverse()
+a.sort()
+e = ""
+e = a.sort()
+print(a)
+print(e)
 
 
 

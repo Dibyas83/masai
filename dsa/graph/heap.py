@@ -4,10 +4,12 @@ Last Updated : 11 Feb, 2025
 A Max-Heap is a Data Structure with the following properties:
 
 It is a Complete Binary Tree.
-The value of the root node must be the largest among all its descendant nodes, and the same thing must be done for its left and right sub-tree also.
+The value of the root node must be the largest among all its descendant nodes, and the same thing must be
+done for its left and right sub-tree also.
 max-heap-1.webpmax-heap-1.webp
 How is Max Heap represented?
-A max Heap is a Complete Binary Tree. A max heap is typically represented as an array. The root element will be at Arr[0]. Below table shows indexes of other nodes for the ith node, i.e., Arr[i]:
+A max Heap is a Complete Binary Tree. A max heap is typically represented as an array. The root element
+ will be at Arr[0]. Below table shows indexes of other nodes for the ith node, i.e., Arr[i]:
 
 Arr[(i-1)/2] Returns the parent node.
 Arr[(2*i)+1] Returns the left child node.

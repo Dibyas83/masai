@@ -286,6 +286,51 @@ print(modified_str)
 
 """
 
+a = "Stt.Uiyhu.jho.kp.lmn.kk"
+b = a.split(".")
+print(b)
+c = sorted(a)
+print(c)
+rep = a.replace("i","a")
+print(rep)
+stop = a.replace("."," ")
+print(stop)
+ct = a.count("kk")
+print(ct)
+revs=a[::-1]
+print(revs)
+sp=a.split(".")
+revjoi=" ".join(sp[::-1])
+re=sp[::-1]
+print(re)
+print(revjoi)
+p = input()
+pr= p.isdigit()
+pri = p.isnumeric()
+if pr == True:
+  print("it contains only digits")
+if pri == True:
+  print("nume")
+#-------------------------------
+cnt = 0
+v = "aeiou"
+for i in a:
+  if i in v:
+    cnt += 1
+print(cnt,"vowels")
+print(a.istitle())
+m = "Dy Dy"
+m2 = "Dy DY"
+
+print(m.istitle())
+print(m2.istitle())
+
+
+
+
+
+
+
 
 
 

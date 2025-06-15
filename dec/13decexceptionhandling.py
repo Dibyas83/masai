@@ -10,18 +10,27 @@ except:
 try:
     file = open('data.txt','r')
     data = file.read()
-    number = int(data)
+    number = int(data) # should br like '55' not 'ab'
 except FileNotFoundError:
     print('file not found.')
 except ValueError:
     print("could not convert into integer")
 
 try:
+    f = int("data") # should br like '55' not 'ab'
+    fi = open('data.txt')
+except (FileNotFoundError,ValueError):
+    print('file not found.')
+
+
+
+try:
     no = int(input())
 except ValueError:
     print("could not convert into integer")
 else:
-    print("enter no")
+    print(" no error")
+
 
 if a < 0:
     raise ValueError("age cant be neg")
@@ -188,9 +197,9 @@ try:
 except:
     print("something went wrong when opening the file")
 
+
+
 """
-
-
 try:
     amount check in account
 except:
@@ -200,15 +209,20 @@ else:
     positive,amt debited and credited to other acc
 finally:
     msg come to my mobile-"amt credited to me"
-"""
-"""
 
+"""
 a =-1
 if a <0:
     raise Exception("Sorry,no numbers below zero ")
 print(a)
-"""
+# as there is no restriction in -1 ,we made custom error
 # custom exception
+
+age = int(input())
+if age < 0:
+    raise ValueError(" age cant be negetive and no predefined error is there")
+else:
+    print("age")
 
 
 class NegativeDivisionFault(Exception): # exception class in python library we are inheriting
@@ -232,4 +246,28 @@ def divide(a,b):
 
 g = divide(5,-9)
 print(g)
+
+# raise Exceptiontype(" msg ")   - like custom error
+
+#  manually trigger an exception when a certain condion accurs
+
+class Negetiveerror(Exception):
+    pass
+
+def square_root(number):
+    if num < 0:
+        raise Negetiveerror("cannot take square root of negetive number.")
+    return num ** 0.5
+
+try:
+    result = square_root(-9)
+except Negetiveerror as e:
+    print(e)
+
+
+
+
+
+
+
 

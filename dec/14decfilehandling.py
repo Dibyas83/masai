@@ -4,8 +4,11 @@ try:
     numm = int("hello")
 except ValueError:
     print("wrong value")
-except Exception: # default for all error
+except Exception: # default for all error ,if other than value error when we dont know error type
+
     print("other error")
+finally:
+    print("run")
 
 
 def check_age(age):
@@ -15,15 +18,46 @@ def check_age(age):
 
 try:
     print(check_age(-5))
-except ValueError as e:
-#except ValueError:
-    #print("dfg")
-    print(e)
+#except ValueError as e:
+except ValueError:
+    print("dfg")
+    #print(e)
 
-file = open("example.txt","r") # r means read mode can open .csv file also
-content = file.read() # for reading
-print(content)
+x1 = input()
+def sqrt(x1):
+    if not isinstance(x1, (int, float)):
+        raise TypeError( 'x1 must be numeric')
+    elif x1 < 0:
+        raise ValueError(' x1 cannot be negative')
+#----------------------------
+"""
+in file we can only store strings , so how can we store set,dict,lists etc . by conversion list to strings by .join,by json.by using serialisation
+for read,write,organising
+
+"""
+
+
+file = open("file1.txt", "w") # file handler, r means read mode can read txt and .csv file also
+#content = file.read() # for reading
+file.write("555\n") # this will ovwewrite the previous things
+#print(content)
 file.close()
+file = open("file1.txt","r")
+content = file.read()
+print(content,"1st")
+file.close()
+file = open("file1.txt","w")
+file.write("606\n")
+file.write("6\n")
+file.write("60\n")
+file.write("er\n")
+file.close() # to save
+file = open("file1.txt","r")
+content = file.readline(2) # no of char to read
+print(content,"2nd")
+content = file.readlines(2) # no of lines or bytes
+print(content,"3rd")
+
 
 f1 = open("sample.txt","w") # write cancreate file
 f1.write("8\n")
@@ -45,17 +79,44 @@ f1.close()
 
 
 #
-with open("demo.txt","r") as f3: # no need of f.close
+with open("file1.txt","r") as f3: # no need of f.close
     for line in f3:  # lin by line
-        print(line.strip())
+        #print(line,"with")
+        print(line.strip(),"with")
 
+with open("file1.txt","a") as f5: # cannot print
+    f5.write("i got it\n")
+with open("file1.txt", "r") as f3:  # no need of f.close
+    for line in f3:  # lin by line
+            # print(line,"with")
+        print(line.strip(), "withappend")
+"""
+606 with
+6 with
+60 with
+er with
+-------------
+606
+ with
+606 with
+6
+ with
+6 with
+60
+ with
+60 with
+er
+ with
+er with
+"""
 
-with open("sample.txt","r") as f4:
+with open("sample.txt","r") as f4: # with auto closses
     for line in f4:  # lin by line
         print(line)
         print(line.strip())
 
-f5 = open("demo.txt","r")
+
+f5 = open("file1.txt","r")
 print(f5.readlines(2)) # print n no of lines
 print(f5.readlines())
 f5.close()
@@ -67,17 +128,17 @@ with open("sample.txt","w") as f6: # write erases previous content
 with open("sample.txt","a") as f4:
     f4.write("i got it\n")
 
-print(f4)
 # append adds to the end of content
 
 import os
 if os.path.exists("C://Users/a2z/PycharmProjects/masai/dec/sample1.txt"):
     os.remove("sample1.txt")
+if os.path.exists("C:\Users\lenovo\PycharmProjects\masai\dec")
 
 # pwd in terminal
 
 import csv
-with open("rd.csv","r") as f7:
+with open("book12.csv","r") as f7:
     reader = csv.reader(f7)
     for row in reader:
         print(row)

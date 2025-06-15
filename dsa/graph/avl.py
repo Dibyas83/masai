@@ -38,6 +38,8 @@ balanced tree is crucial for performance
 
 
 """
+from nov.input.inputsimple import height
+
 """
 geek 
 
@@ -115,6 +117,42 @@ Deletion in an AVL Tree
 Red Black Tree
 
 """
+# height
+
+class Avlnode:
+    root.value = 10
+    root.left = 11
+    root.right = 12
+    def __int__(self,key):
+        self.key = key
+        self.left = self.right = None # currently leaf
+        self.height = 1
+
+    def height(node):
+        return node.height if node else 0
+
+# rotation
+
+    def rotate_right(y):
+        x,t2 = y.left, y.left.right
+        x.right,y.left = y,t2
+        y.height = 1+ max(height(y.left), height(y.right))
+        x.height = 1 + max(height(x.left),height(x.right))
+        return x
+
+show = Avlnode(a)
+print(show.rotate_right(a))
+#--------------BFS
+
+from collections import deque
+def bfs(root):
+    if not root: return
+    q =deque([root])
+    while q:
+        node =q.popleft()
+        print(node.key, end=" ")
+        if node.left: q.append(node.left)
+        if node.right: q.append(node.right)
 
 
 

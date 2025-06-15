@@ -81,3 +81,16 @@ print('F(6) = ',Fmemo(n))
 print('memo = ',memo)
 
 
+a1= 0
+b1 = 1
+n=int(input())
+if n == 1 or n == 0:
+    print(1)
+else:
+    print(a1)
+    print(b1)
+    for i in range(2, n):
+        c1 = a1 + b1
+        a1 = b1
+        b1 = c1
+        print(c1)

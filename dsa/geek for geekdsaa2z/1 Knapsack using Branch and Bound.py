@@ -63,192 +63,140 @@ Compute bound of next level node. If bound is more than maxProfit, then add next
 Consider the case when next level node is not considered as part of solution and add a node to queue with level as next, but weight and profit without considering next level nodes.
 Below is the implementation of above approach:
 
+"""
 
 
 
-1
 from queue import PriorityQueue
-2
-​
-3
+
 class Item:
-4
+
     def __init__(self, weight, value):
-5
+
         self.weight = weight
-6
+
         self.value = value
-7
-​
-8
+
 class Node:
-9
+
     def __init__(self, level, profit, weight):
-10
         self.level = level      # Level of the node in the decision tree (or index in arr[])
-11
+
         self.profit = profit    # Profit of nodes on the path from root to this node (including this node)
-12
+
         self.weight = weight    # Total weight at the node
-13
-​
-14
+
     def __lt__(self, other):
-15
         return other.weight < self.weight  # Compare based on weight in descending order
-16
-​
-17
+
 def bound(u, n, W, arr):
-18
+
     # Calculate the upper bound of profit for a node in the search tree
-19
+
     if u.weight >= W:
-20
+
         return 0
-21
-​
-22
+
     profit_bound = u.profit
-23
+
     j = u.level + 1
-24
+
     total_weight = u.weight
-25
-​
-26
+
     # Greedily add items to the knapsack until the weight limit is reached
-27
+
     while j < n and total_weight + arr[j].weight <= W:
-28
         total_weight += arr[j].weight
-29
         profit_bound += arr[j].value
-30
         j += 1
-31
-​
-32
+
     # If there are still items left, calculate the fractional contribution of the next item
-33
+
     if j < n:
-34
+
         profit_bound += int((W - total_weight) * arr[j].value / arr[j].weight)
-35
-​
-36
+
     return profit_bound
-37
-​
-38
+
 def knapsack(W, arr, n):
-39
+
     # Sort items based on value-to-weight ratio in non-ascending order
-40
+
     arr.sort(key=lambda x: x.value / x.weight, reverse=True)
-41
 
-42
+
+
     priority_queue = PriorityQueue()
-43
-    u = Node(-1, 0, 0)  # Dummy node at the starting
-44
-    priority_queue.put(u)
-45
-​
-46
-    max_profit = 0
-47
-​
-48
-    while not priority_queue.empty():
-49
-        u = priority_queue.get()
-50
-​
-51
-        if u.level == -1:
-52
-            v = Node(0, 0, 0)  # Starting node
-53
-        elif u.level == n - 1:
-54
-            continue  # Skip if it is the last level (no more items to consider)
-55
-        else:
-56
-            v = Node(u.level + 1, u.profit, u.weight)  # Node without considering the next item
-57
-​
-58
-        v.weight += arr[v.level].weight
-59
-        v.profit += arr[v.level].value
-60
-​
-61
-        # If the cumulated weight is less than or equal to W and profit is greater than previous profit, update maxProfit
-62
-        if v.weight <= W and v.profit > max_profit:
-63
-            max_profit = v.profit
-64
-​
-65
-        v_bound = bound(v, n, W, arr)
-66
-        # If the bound value is greater than current maxProfit, add the node to the priority queue for further consideration
-67
-        if v_bound > max_profit:
-68
-            priority_queue.put(v)
-69
-​
-70
-        # Node considering the next item without adding it to the knapsack
-71
-        v = Node(u.level + 1, u.profit, u.weight)
-72
-        v_bound = bound(v, n, W, arr)
-73
-        # If the bound value is greater than current maxProfit, add the node to the priority queue for further consideration
-74
-        if v_bound > max_profit:
-75
-            priority_queue.put(v)
-76
-​
-77
-    return max_profit
-78
-​
-79
-# Driver program to test the above function
-80
-W = 10
-81
-arr = [
-82
-    Item(2, 40),
-83
-    Item(3.14, 50),
-84
-    Item(1.98, 100),
-85
-    Item(5, 95),
-86
-    Item(3, 30)
-87
-]
-88
-n = len(arr)
-89
-​
-90
-max_profit = knapsack(W, arr, n)
-91
-print("Maximum possible profit =", max_profit)
 
+    u = Node(-1, 0, 0)  # Dummy node at the starting
+
+    priority_queue.put(u)
+
+    max_profit = 0
+
+    while not priority_queue.empty():
+
+        u = priority_queue.get()
+
+        if u.level == -1:
+
+            v = Node(0, 0, 0)  # Starting node
+
+        elif u.level == n - 1:
+
+            continue  # Skip if it is the last level (no more items to consider)
+
+        else:
+
+            v = Node(u.level + 1, u.profit, u.weight)  # Node without considering the next item
+
+        v.weight += arr[v.level].weight
+
+        v.profit += arr[v.level].value
+
+        # If the cumulated weight is less than or equal to W and profit is greater than previous profit, update maxProfit
+
+        if v.weight <= W and v.profit > max_profit:
+
+            max_profit = v.profit
+
+        v_bound = bound(v, n, W, arr)
+
+        # If the bound value is greater than current maxProfit, add the node to the priority queue for further consideration
+
+        if v_bound > max_profit:
+
+            priority_queue.put(v)
+
+        # Node considering the next item without adding it to the knapsack
+
+        v = Node(u.level + 1, u.profit, u.weight)
+
+        v_bound = bound(v, n, W, arr)
+
+        # If the bound value is greater than current maxProfit, add the node to the priority queue for further consideration
+
+        if v_bound > max_profit:
+
+            priority_queue.put(v)
+
+    return max_profit
+
+# Driver program to test the above function
+
+W = 10
+arr = [
+    Item(2, 40),
+    Item(3.14, 50),
+    Item(1.98, 100),
+    Item(5, 95),
+    Item(3, 30)
+]
+
+n = len(arr)
+max_profit = knapsack(W, arr, n)
+print("Maximum possible profit =", max_profit)
+"""
 Output
 Maximum possible profit = 235
 Time Complexity: O(2N)

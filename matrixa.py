@@ -747,6 +747,9 @@ matrix[1][2] = 10  # Change element at row 1, column 2 to 10
 print(matrix)  # Output: [[1, 2, 3], [4, 5, 10], [7, 8, 9]]
 """
 
-
+w = [1,2,3,4,5]
+x = [6,7,8,9,10]
+table = [[0 for _ in range(len(w)+1)] for _ in range(len(x))]
+print(table)
 
 

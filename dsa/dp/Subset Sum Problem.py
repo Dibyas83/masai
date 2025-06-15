@@ -426,3 +426,61 @@ Perfect Sum Problem (Print all subsets with given sum)
 
 """
 
+def has_subset(i,sum):
+    global memo,arrs
+    if sum == 0:
+        return True
+    if i == len(arrs) or sum < 0:
+        return False
+    if memo[i][sum] != -1:
+        return memo[i][sum]
+    #if arrs[i] > sum:
+        #memo[i][sum] = has_subset(i+1,sum)
+
+    memo[i][sum] = has_subset(i+1,sum) or has_subset(i+1,sum-arrs[i])
+    #print(memo[i][sum], [arrs[i] for i in range(i,len(arrs))])
+    print(memo[i][sum])
+    return memo[i][sum]
+
+n= int(input())
+arrs = list(map(int,input().split(" ")))
+sum = int(input())
+memo = [[-1 for i in range(sum+1)] for j in range(n+1)]
+print(memo)
+print("--------------------")
+print(has_subset(0,sum))
+"""
+if has_subset(0,sum):
+    print("True")
+else:
+    print("False")
+"""
+print(("yes" if has_subset(0,sum) else "no"))
+
+#--------------------------------
+def subset_sum_dp(nums, target):
+    n = len(nums)
+    dp = [[False for _ in range(target + 1)] for _ in range(n + 1)]
+
+    for i in range(n + 1):
+        dp[i][0] = True
+
+    for i in range(1, n + 1):
+        for j in range(1, target + 1):
+            if nums[i - 1] > j:
+                dp[i][j] = dp[i - 1][j]
+            else:
+                dp[i][j] = dp[i - 1][j] or dp[i - 1][j - nums[i - 1]]
+        print(dp[i][j])
+        print(dp)
+    return dp[n][target]
+
+nums = list(map(int,input().split(" ")))
+target = int(input())
+print(subset_sum_dp(nums,target))
+
+
+
+
+
+
