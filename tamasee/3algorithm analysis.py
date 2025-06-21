@@ -78,9 +78,47 @@ This function arises in algorithm analysis any time we have to do a single basic
 operation for each of n elements. For example, comparing a number x to each
 element of a sequence of size n will require n comparisons
 
-e best running time we can hope to achieve for any algorithm that
-processes each of n objects that are not already in the computer’s memory, because
-reading in the n objects already requires n operations
+best running time we can hope to achieve for any algorithm that processes each of n objects that are
+not already in the computer’s memory, because reading in the n objects already requires n operations
+
+4 - The next function we discuss in this section is the n-log-n function,
+f(n) = nlogn
+. This function grows a little more rapidly than the linear function and a lot less rapidly than the
+ quadratic function; therefore, we would greatly prefer an algorithm with a running time that is 
+ proportional to nlogn, than one with quadratic running time
+- the fastest possible algorithms for sorting n arbitrary values require time proportional to nlog n
+
+5 -  quadratic function,
+f(n) = n2
+That is, given an input value n, the function f assigns the product of n with itself.Many algorithms 
+that have nested loops, where the inner loop performs a linear number of operations and  the outer loop
+is performed a linear number of times. Thus, in such cases, the algorithm performs n · n = n2 operations
+
+1+2+3 ...n-2 + n-1 + n = n/2 * n  + n = n(n-1)/2
+
+ - A polynomial function has the form,
+f(n) = a0 +a1n+a2n^2 +a3n^3 +···+adn^d,
+where a0,a1,...,ad are constants, called the coefficients of the polynomial, and
+ad = 0. Integer d, which indicates the highest power in the polynomial, is called
+the degree of the polynomial
+For example, the following functions are all polynomials:
+• f(n) = 2+5n+n^2
+• f(n) = 1+n^3
+• f(n) = 1
+• f(n) = n
+• f(n) = n^2
+
+- e exponential function,
+f(n) = bn,
+where b is a positive constant, called the base, and the argument n is the exponent. That is, function 
+f(n) assigns to the input argument n the value obtained by mul￾tiplying the base b by itself n times.
+
+256 = 16^2 = (2^4)^2 = 2^4·2 = 28 = 256 (Exponent Rule 1)
+• 243 = 3^5 = 3^2+3 = 3^2*3^3 = 9 · 27 = 243 (Exponent Rule 2)
+• 16 = 1024/64 = 2^10/2^6 = 2^10−6 = 24 = 16 (Exponent Rule 3)
+
+
+
 
 
 
