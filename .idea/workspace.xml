@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
-      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/5recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/6datastructure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/7linked list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/rec insertion and del linklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/rec linklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/rev using recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/dynamic  array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp collection of objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp inherit3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp inheritance2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp passby variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp passby1 variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp relatioship bet classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp super.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/camp types of inheritence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/campus static method and var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/campuscreatingfraction class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/campusoop_encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oopclass/campusoop_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Masai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Masai.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/campusxdsa/2time and space complexity.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/campusxdsa/2time and space complexity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/campusxdsa/4looping.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/campusxdsa/4looping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numericalpython/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/numericalpython/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tamasee/algorithm analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/tamasee/3algorithm analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tamasee/oopss.py" beforeDir="false" afterPath="$PROJECT_DIR$/tamasee/2oopss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tamasee/simple program.py" beforeDir="false" afterPath="$PROJECT_DIR$/tamasee/1simple program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuplea.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuplea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tamasee/3algorithm analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/tamasee/3algorithm analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -644,7 +615,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749961803180</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1750504927534</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750504927534</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
