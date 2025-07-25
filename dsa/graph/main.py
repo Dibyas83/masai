@@ -28,7 +28,7 @@ direction of an edge can represent things like hierarchy or flow.
 A cyclic Graph is defined differently depending on whether it is directed or not:
 
 A directed cyclic Graph is when you can follow a path along the directed edges that goes in circles. Removing the
- directed edge from F to G in the animation above makes the directed Graph not cyclic anymore.
+directed edge from F to G in the animation above makes the directed Graph not cyclic anymore.
 An undirected cyclic Graph is when you can come back to the same vertex you started at without using the same edge
 more than once. The undirected Graph above is cyclic because we can start and end up in vertes C without using the
 same edge twice.
@@ -40,9 +40,9 @@ we will use for Graphs moving forward in this tutorial, as it is easy to underst
 all cases relevant for this tutorial.
 
 Graph representations store information about which vertices are adjacent, and how the edges between the vertices
- are. Graph representations are slightly different if the edges are directed or weighted.
+are. Graph representations are slightly different if the edges are directed or weighted.
 
-Two vertices are adjacent, or neighbors, if there is an edge between them.
+Two vertices are adjacent , or neighbors, if there is an edge between them.
 
 Adjacency Matrix Graph Representation
 Adjacency Matrix is the Graph representation (structure) we will use for this tutorial.

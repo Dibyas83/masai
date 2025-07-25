@@ -5,7 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
+      <change afterPath="$PROJECT_DIR$/1notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/10 matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/11 line_matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/12scatter_plot-matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/13piechart-matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/14 boxplot-matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/2math operations and functions on array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/3add remove ele in arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/4search,filter,sort array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/5aggregating and statistical func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/6 pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/7pandas col transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/8pandas merge, join,concanate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/9pandas pivot melt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/10rec linklist2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/11find maxin a linkedlist and replace it with a given value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/12rev a linklist of int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/13convert astrix to space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/14 stackk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/15stack using arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/16queueee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/17using2stack impliment que.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/18hashin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/19hashin  by chaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/20linearsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/21 recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/22rec with memoization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/linkedlist campuxgit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/campusxdsa/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/1 intro fib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/10ways_of_targetstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/11storingways_in2darray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/12tabularsolving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/13 grid traveller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/14cansum  tabulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/15howsum  tabulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/16bestsum  tabulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/17cancontructstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/18countcontructstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/19allwaystoconst_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/2traveller on 2dgrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/3 targetsum in array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/4howsum in array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/5 no in arr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/6 dp targetsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/7geektarget sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/8 shortest combfor targetsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/9 targetstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/dpfreecodecamp/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/graphfreecodecamp/1 main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/karumanchi/1intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopclass/10campoperator and method overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopclass/camp irctc project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/sql python data analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/1 adding data to a new col.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tamasee/4recursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/campusxdsa/7linked list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/campusxdsa/7linked list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/campusxdsa/rec insertion and del linklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/campusxdsa/9rec insertion and del linklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/campusxdsa/rec linklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/campusxdsa/9rec linklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/campusxdsa/rev using recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/campusxdsa/8rev using recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/graph/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/graph/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numericalpython/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/data analytics/numericalpython/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopclass/camp types of inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/oopclass/camp types of inheritence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tamasee/3algorithm analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/tamasee/3algorithm analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,37 +115,63 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.1 Knapsack using Branch and Bound.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1 intro.executor&quot;: &quot;Run&quot;,
     &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10 matplotlib.executor&quot;: &quot;Run&quot;,
     &quot;Python.10oct.executor&quot;: &quot;Run&quot;,
     &quot;Python.10octq&amp;a.executor&quot;: &quot;Run&quot;,
     &quot;Python.10or20money.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10rec linklist2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10ways_of_targetstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 line_matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11find maxin a linkedlist and replace it with a given value.executor&quot;: &quot;Run&quot;,
     &quot;Python.11oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12rev a linklist of int.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12scatter_plot-matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12tabularsolving.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 grid traveller.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13convert astrix to space.executor&quot;: &quot;Run&quot;,
     &quot;Python.13decexceptionhandling (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.13decexceptionhandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13piechart-matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 stack.executor&quot;: &quot;Run&quot;,
     &quot;Python.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14cansum  tabulation.executor&quot;: &quot;Run&quot;,
     &quot;Python.14decfilehandling.executor&quot;: &quot;Run&quot;,
     &quot;Python.14nov.executor&quot;: &quot;Run&quot;,
     &quot;Python.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15howsum  tabulation.executor&quot;: &quot;Run&quot;,
     &quot;Python.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16bestsum  tabulation.executor&quot;: &quot;Run&quot;,
     &quot;Python.16nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16que.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16queueee (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17cancontructstring.executor&quot;: &quot;Run&quot;,
     &quot;Python.17decfilehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18countcontructstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18hashin.executor&quot;: &quot;Run&quot;,
     &quot;Python.18nov.executor&quot;: &quot;Run&quot;,
     &quot;Python.19-20decGenerics and Functional Programmin (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.19-20decGenerics and Functional Programmin.executor&quot;: &quot;Run&quot;,
     &quot;Python.19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19allwaystoconst_string.executor&quot;: &quot;Run&quot;,
     &quot;Python.19decGenerics and Functional Programmin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19hashin  by chaining.executor&quot;: &quot;Run&quot;,
     &quot;Python.19oct.executor&quot;: &quot;Run&quot;,
     &quot;Python.1decoopsass.executor&quot;: &quot;Run&quot;,
     &quot;Python.2-4nov.executor&quot;: &quot;Run&quot;,
     &quot;Python.2-5nov (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20linearsearch.executor&quot;: &quot;Run&quot;,
     &quot;Python.20n0vmulti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21 recursion.executor&quot;: &quot;Run&quot;,
     &quot;Python.210ctsol.executor&quot;: &quot;Run&quot;,
     &quot;Python.21decconcurrrencymultithreading.executor&quot;: &quot;Run&quot;,
     &quot;Python.21novoops.executor&quot;: &quot;Run&quot;,
     &quot;Python.22oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22rec with memoization.executor&quot;: &quot;Run&quot;,
     &quot;Python.23novdatastructure.executor&quot;: &quot;Run&quot;,
     &quot;Python.24oct.executor&quot;: &quot;Run&quot;,
     &quot;Python.25.executor&quot;: &quot;Run&quot;,
@@ -96,32 +187,49 @@
     &quot;Python.29oct.executor&quot;: &quot;Run&quot;,
     &quot;Python.2nov.executor&quot;: &quot;Run&quot;,
     &quot;Python.2time and space complexity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2traveller on 2dgrid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 howsum in array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 targetsum in array.executor&quot;: &quot;Run&quot;,
     &quot;Python.3.executor&quot;: &quot;Run&quot;,
     &quot;Python.30input assignment.executor&quot;: &quot;Run&quot;,
     &quot;Python.30nov.executor&quot;: &quot;Run&quot;,
     &quot;Python.30novmultilist.executor&quot;: &quot;Run&quot;,
     &quot;Python.310ctstringsol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3algorithm analysis.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4howsum in array (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.4howsum in array.executor&quot;: &quot;Run&quot;,
     &quot;Python.4inheritance.executor&quot;: &quot;Run&quot;,
     &quot;Python.4looping.executor&quot;: &quot;Run&quot;,
     &quot;Python.4nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4search,filter,sort array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5 no in arr.executor&quot;: &quot;Run&quot;,
     &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5aggregating func.executor&quot;: &quot;Run&quot;,
     &quot;Python.5decoops.executor&quot;: &quot;Run&quot;,
     &quot;Python.5oct.executor&quot;: &quot;Run&quot;,
     &quot;Python.5special methd in our classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6 pandas.executor&quot;: &quot;Run&quot;,
     &quot;Python.6.executor&quot;: &quot;Run&quot;,
     &quot;Python.6decoops.executor&quot;: &quot;Run&quot;,
     &quot;Python.7linked list.executor&quot;: &quot;Run&quot;,
     &quot;Python.7nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7pandas col transformation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 shortest combfor targetsum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8pandas merge, join,concanate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9 targetstring.executor&quot;: &quot;Run&quot;,
     &quot;Python.9&amp;12nov (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.9&amp;12nov.executor&quot;: &quot;Run&quot;,
     &quot;Python.9nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9pandas.executor&quot;: &quot;Run&quot;,
     &quot;Python.ACESV (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Held-karp.executor&quot;: &quot;Run&quot;,
     &quot;Python.Held-karp2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Subset Sum Problem.executor&quot;: &quot;Run&quot;,
     &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
     &quot;Python.abonly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add remove ele in arrays.executor&quot;: &quot;Run&quot;,
     &quot;Python.add,sub cost.executor&quot;: &quot;Run&quot;,
     &quot;Python.allpossiblepath.executor&quot;: &quot;Run&quot;,
     &quot;Python.area calculator.executor&quot;: &quot;Run&quot;,
@@ -145,6 +253,7 @@
     &quot;Python.camp relatioship bet classes.executor&quot;: &quot;Run&quot;,
     &quot;Python.camp super.executor&quot;: &quot;Run&quot;,
     &quot;Python.camp types of inheritence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.campoperator and method overloading.executor&quot;: &quot;Run&quot;,
     &quot;Python.campus static method and var.executor&quot;: &quot;Run&quot;,
     &quot;Python.campuscreatingfraction class.executor&quot;: &quot;Run&quot;,
     &quot;Python.campusoop_encapsulation.executor&quot;: &quot;Run&quot;,
@@ -277,6 +386,7 @@
     &quot;Python.map alphtoint.executor&quot;: &quot;Run&quot;,
     &quot;Python.map.executor&quot;: &quot;Run&quot;,
     &quot;Python.masai election.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math operations and functions on array.executor&quot;: &quot;Run&quot;,
     &quot;Python.matplot.executor&quot;: &quot;Run&quot;,
     &quot;Python.matrix row col diag.executor&quot;: &quot;Run&quot;,
     &quot;Python.matrix.executor&quot;: &quot;Run&quot;,
@@ -351,6 +461,7 @@
     &quot;Python.simple program.executor&quot;: &quot;Run&quot;,
     &quot;Python.simulation.executor&quot;: &quot;Run&quot;,
     &quot;Python.spiderman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack using arrays.executor&quot;: &quot;Run&quot;,
     &quot;Python.stack.executor&quot;: &quot;Run&quot;,
     &quot;Python.staircase.executor&quot;: &quot;Run&quot;,
     &quot;Python.string.executor&quot;: &quot;Run&quot;,
@@ -395,27 +506,27 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/masai/oopclass&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/masai/dsa/dpfreecodecamp&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\dpfreecodecamp" />
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\data analytics\numericalpython" />
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\campusxdsa" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\oopclass" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\classes" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\graph" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\project module 2 submit" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\mergesort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\data analytics" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\campusxdsa" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\tamasee" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\shortest path algo" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\bst" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\geek for geekdsaa2z" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.camp types of inheritence">
-    <configuration name="camp inherit3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="16bestsum  tabulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -424,11 +535,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oopclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/dpfreecodecamp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopclass/camp inherit3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/dpfreecodecamp/16bestsum  tabulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -437,7 +548,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="camp inheritance2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17cancontructstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -446,11 +557,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oopclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/dpfreecodecamp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopclass/camp inheritance2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/dpfreecodecamp/17cancontructstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,7 +570,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="camp relatioship bet classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18countcontructstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -468,11 +579,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oopclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/dpfreecodecamp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopclass/camp relatioship bet classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/dpfreecodecamp/18countcontructstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -481,7 +592,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="camp super" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19allwaystoconst_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -490,11 +601,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oopclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/dpfreecodecamp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopclass/camp super.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/dpfreecodecamp/19allwaystoconst_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -503,7 +614,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="camp types of inheritence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -512,11 +623,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oopclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/dpfreecodecamp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopclass/camp types of inheritence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/dpfreecodecamp/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -527,11 +638,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.camp types of inheritence" />
-        <item itemvalue="Python.camp inherit3" />
-        <item itemvalue="Python.camp super" />
-        <item itemvalue="Python.camp inheritance2" />
-        <item itemvalue="Python.camp relatioship bet classes" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.19allwaystoconst_string" />
+        <item itemvalue="Python.18countcontructstring" />
+        <item itemvalue="Python.17cancontructstring" />
+        <item itemvalue="Python.16bestsum  tabulation" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +734,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750504927534</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1750577249383</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1750577249383</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -683,6 +802,11 @@
           <url>file://$PROJECT_DIR$/tamasee/1simple program.py</url>
           <line>506</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dsa/campusxdsa/19hashin  by chaining.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

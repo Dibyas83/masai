@@ -70,6 +70,34 @@ obj2 = B()
 obj3 = C()
 print(obj1.m() + obj3.m() + obj3.n()) # 20 + 30 + 50
 
+print('------------------------------')
+
+class X:
+
+    def m(self):
+        return 20
+
+
+class Y(X):
+
+    def m(self):
+        val = super().m() + 30
+        return val
+    def n(self):
+        return 40
+
+class Z(Y):
+
+    def m(self):
+        #val1 = self.m() + 40 # maximum recursion depth exceeded.self is obj .obj call m goes to self.m which again calls self.m
+        val2 = super().m() + 40
+        val3 = super().m() + 50
+        return val2 , val3
+
+
+
+obj11 = Z()
+print(obj11.m(),"11") # 20 + 30 +40 =90
 
 
 

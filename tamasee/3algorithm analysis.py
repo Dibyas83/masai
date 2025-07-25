@@ -268,11 +268,10 @@ def disjoint1(A, B, C):
 #If each of the original sets has size n, then the worst-case running time of this function is O(n3).
 
 """
-The test a == b is evaluated O(n2) times.
-The rest of the time spent depends upon how many matching (a,b) pairs exist. As
-we have noted, there are at most n such pairs, and so the management of the loop
-over C, and the commands within the body of that loop, use at most O(n2) time.
-By our standard application of Proposition 3.9, the total time spent is O(n2).
+The test a == b is evaluated O(n2) times.the rest of the time spent depends upon how many matching (a,b) pairs
+exist. As we have noted, there are at most n such pairs, and so the management of the loop over C, and the commands
+within the body of that loop, use at most O(n2) time.By our standard application of Proposition 3.9, the total 
+time spent is O(n2).
 """
 def disjoint1(A, B, C):
     """Return True if there is no element common to all three lists."""
@@ -291,12 +290,10 @@ element uniqueness problem. In the former, we are given three collections and we
 duplicates within a single collection. In the element uniqueness problem, we are given a single sequence S with
 n elements and asked whether all elements of that collection are distinct from each other.Code Fragment 3.7, 
 solves the element uniqueness problem by looping through all distinct pairs of indices j < k,checking if any of
-those pairs refer to elements that are equivalent to each other. It does this using two
-nested for loops, such that the first iteration of the outer loop causes n−1 iterations
-of the inner loop, the second iteration of the outer loop causes n − 2 iterations of
-the inner loop, and so on. Thus, the worst-case running time of this function is
-proportional to
-(n−1)+(n−2) +···+2+1,
+those pairs refer to elements that are equivalent to each other. It does this using two nested for loops, such that
+the first iteration of the outer loop causes n−1 iterations of the inner loop, the second iteration of the outer 
+loop causes n − 2 iterations of the inner loop, and so on. Thus, the worst-case running time of this function is
+proportional to  (n−1)+(n−2) +···+2+1,
 which we recognize as the familiar O(n2) summation from Proposition 3.3
 
 """
@@ -323,25 +320,148 @@ def unique2(S):
             return False # found duplicate pair
     return True
 
+"""
+d. Logically, these two statements are the same, but the latter, which is called the contrapositive of the first,
+may be easier to think about.
+Example 3.18: Let a and b be integers. If ab is even, then a is even or b is even.
+Justification: To justify this claim, consider the contrapositive, “If a is odd and
+b is odd, then ab is odd.” So, suppose a = 2 j+1 and b = 2k+1, for some integers
+j and k. Then ab = 4 jk+2 j +2k+1 = 2(2 jk+ j +k) +1; hence, ab is odd.
+
+an application of DeMorgan’s Law. This law helps us deal with negations, for it states that the negation of
+a statement of the form “p or q” is“ not p and not q.” Likewise, it states that the negation of a statement 
+of the form “p and q” is “not p or not q.”
+
+Contradiction
+Another negative justification technique is justification by contradiction, which also often involves 
+using DeMorgan’s Law. In applying the justification by con￾tradiction technique, we establish that a 
+statement q is true by first supposing that q is false and then showing that this assumption leads to a
+contradiction (such as 2 != 2 or 1 > 3)
+By reaching such a contradiction, we show that no consistent sit￾uation exists with q being false, so q must be true
+
+Let ab be odd. We wish to show that a is odd and b is odd. So,with the hope of leading to a contradiction, let us
+assume the opposite, namely,suppose a is even or b is even. In fact, without loss of generality, we can assume
+that a is even (since the case for b is symmetric). Then a = 2 j for some integerj. Hence, ab = (2 j)b = 2(jb),
+that is, ab is even. But this is a contradiction: ab cannot simultaneously be odd and even. 
+Therefore, a is odd and b is odd
+"""
+"""
+t F(1) = 1, F(2) = 2, and F(n) = F(n − 2) + F(n − 1) for n > 2. (See Sec￾tion 1.8.) We claim that F(n) < 2**n.
+We will show our claim is correct by induction.
+Base cases: (n ≤ 2). F(1) = 1 < 2 = 21 and F(2) = 2 < 4 = 22.
+Induction step: (n > 2). Suppose our claim is true for all n < n. Consider F(n).
+Since n > 2, F(n) = F(n−2)+F(n−1). Moreover, since both n−2 and n−1 are
+less than n, we can apply the inductive assumption (sometimes called the “inductive
+hypothesis”) to imply that F(n) < 2n−2 +2n−1, since
+2n−2 +2n−1 < 2**n−1 +2**n−1 = 2 · 2**(n−1) = 2n.
+
+n+ (n−1)n/2 = (2n+n**2 −n)/2 = (n**2 +n)/2 = n(n+1)/2 .
+"""
+def find(S, val):#"""Return index j such that S[j] == val, or -1 if no such element"""
+    n = len(S)
+    j=0
+    while j < n:
+        if S[j] == val:
+            return j # a match was found at index j
+        j += 1
+    return -1
+
+def evensum(S):#Return the sum of the elements with even index in sequence S
+    n = len(S)
+    tot=0
+    for j in range(0,n,2):
+        tot += S[j]
+
+    return tot
+
+"""
+A prefix sum of a sequence (array) is a new sequence where each element is the sum of all preceding elements in the original sequence, including the element at the current index. Essentially, it's a cumulative sum.
+How it works:
+1. Initialization:
+The first element of the prefix sum array is the same as the first element of the original array.
+2. Iteration:
+For each subsequent element in the original array, the prefix sum is calculated by adding the current element to the previous prefix sum. 
+"""
 
 
+# Function to find the prefix sum array
+def findPrefixSum(arr):
+    n = len(arr)
+
+    # to store the prefix sum
+    prefixSum = [0] * n
+
+    # initialize the first element
+    prefixSum[0] = arr[0]
+
+    # Adding present element with previous element
+    for i in range(1, n):
+        prefixSum[i] = prefixSum[i - 1] + arr[i]
+
+    return prefixSum
 
 
+if __name__ == "__main__":
+    arr = [10, 20, 10, 5, 15]
+    prefixSum = findPrefixSum(arr)
+    for i in prefixSum:
+        print(i, end=" ")
+
+def prifixsum(S1):#Return the sum of the prifix sums of sequence S
+    n = len(S1)
+    tot=0
+    for j in range(n):
+        for k in range(1+j):
+            tot += S1[k]
+
+    return tot
+s1 = [10, 20, 10, 5, 15]
+print(prifixsum(s1))
 
 
+def prifixsum2(S2):#Return the sum of the prifix sums of sequence S
+    n = len(S2)
+    tot = 0
+    pref = 0
+    for j in range(n):
+        pref += S2[j]
+        tot += pref
 
+    return tot
+s1 = [10, 20, 10, 5, 15]
+print(prifixsum2(s1))
 
+def check(A,B):#Return the number of elements in B equal to the sum of prefix sums in A.a and b same length
+    n = len(A)
 
+    ct = 0
+    for i in range(n):
+        tot = 0
+        for j in range(n):
+            for k in range(1 + j):
+                tot += A[k]
+            print(B[i], tot)
+            if B[i] == tot:
+                ct += 1
+    return ct
+s1 = [10, 20, 10, 5, 15]
+s2 = [10, 30, 10, 45, 15]
+print(check(s1,s2))
 
-
-
-
-
-
-
-
-
-
+def check2(A1,B1):#Return the number of elements in B equal to the sum of prefix sums in A.a and b same length
+    n = len(A1)
+    ct = 0
+    for i in range(n):
+        tot = 0
+        for k in range(1 + i):
+            tot += A1[k]
+        print(B1[i], tot)
+        if B1[i] == tot:
+            ct += 1
+    return ct
+s1 = [10, 20, 10, 5, 15]
+s2 = [10, 30, 10, 45, 15]
+print(check2(s1,s2))
 
 
 

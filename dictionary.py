@@ -1346,9 +1346,13 @@ lambda function returns the key-value pair (k, v) and dict() converts the result
 
 
 """
+d = {1: 'Geeks', 2: 'For', 'age':22}
 
-
-
+# Iterate over keys
+if 2 in d:
+    print(d[2])
+d[4] = True
+print(d)
 
 
 

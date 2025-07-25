@@ -158,14 +158,14 @@ class Linkedlist:
             curr = curr.next
 
         return result[:-2]
-"""
+
     def traverse(self):
         curr = self.head
 
         while curr != None:
             print(curr.data)
             curr = curr.next
-"""
+
 
 
 
@@ -247,5 +247,5 @@ lin.append(4)
 lin.append(5)
 
 print(lin,"lin")
-print(lin.func(head),"lin")
+
 

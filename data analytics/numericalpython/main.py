@@ -91,6 +91,23 @@ print(slic.dtype)
 2
 int64
 """
+x = [30,40,50,60,70]
+y = [[30,40,50,60,70],[20,30.8,35,48,68]]
+arr16 = np.array(x)
+arr26 = np.array(y)
+print(arr16)
+print(arr16.shape)
+print(arr26.shape)
+print(len(arr26))
+print(np.size(arr26))
+print(type(arr26),"type") # telling its numpy
+print(arr26.dtype,"datatype") #  telling data type
+print(arr26.astype(str)) #
+print(arr26.astype(float)) #
+print(arr26.astype(int)) #
+arr26.astype(float)
+print(arr26,"float")
+
 
 
 
