@@ -1,13 +1,11 @@
 
 
 """
-Working with zip files in Python
-Last Updated : 22 Jul, 2021
-This article explains how one can perform various operations on a zip file using a simple python program.
 
-What is a zip file?
-
-ZIP is an archive file format that supports lossless data compression. By lossless compression, we mean that the compression algorithm allows the original data to be perfectly reconstructed from the compressed data. So, a ZIP file is a single file containing one or more compressed files, offering an ideal way to make large files smaller and keep related files together.
+ZIP is an archive file format that supports lossless data compression. By lossless compression, we mean
+that the compression algorithm allows the original data to be perfectly reconstructed from the compressed
+data. So, a ZIP file is a single file containing one or more compressed files, offering an ideal way to
+make large files smaller and keep related files together.
 
 Why do we need zip files?
 
@@ -16,10 +14,7 @@ To improve transfer speed over standard connections.
 To work on zip files using python, we will use an inbuilt python module called zipfile.
 
 1. Extracting a zip file
-
-
-
-
+"""
 # importing required modules
 from zipfile import ZipFile
 
@@ -35,24 +30,26 @@ with ZipFile(file_name, 'r') as zip:
     print('Extracting all the files now...')
     zip.extractall()
     print('Done!')
+"""
 The above program extracts a zip file named “my_python_files.zip” in the same directory as of this python script.
 The output of above program may look like this:
-
-
 
 Let us try to understand the above code in pieces:
 
 from zipfile import ZipFile
-ZipFile is a class of zipfile module for reading and writing zip files. Here we import only class ZipFile from zipfile module.
+ZipFile is a class of zipfile module for reading and writing zip files. Here we import only class ZipFile from
+ zipfile module.
 
 with ZipFile(file_name, 'r') as zip:
-Here, a ZipFile object is made by calling ZipFile constructor which accepts zip file name and mode parameters. We create a ZipFile object in READ mode and name it as zip.
+Here, a ZipFile object is made by calling ZipFile constructor which accepts zip file name and mode parameters.
+ We create a ZipFile object in READ mode and name it as zip.
 
 zip.printdir()
 printdir() method prints a table of contents for the archive.
 
 zip.extractall()
-extractall() method will extract all the contents of the zip file to the current working directory. You can also call extract() method to extract any file by specifying its path in the zip file.
+extractall() method will extract all the contents of the zip file to the current working directory. 
+You can also call extract() method to extract any file by specifying its path in the zip file.
 For example:
 
 zip.extract('python_files/python_wiki.txt')
@@ -65,12 +62,11 @@ data = zip.read(name_of_file_to_read)
 
 Consider a directory (folder) with such a format:
 
-
-
-Here, we will need to crawl the whole directory and its sub-directories in order to get a list of all file paths before writing them to a zip file.
+Here, we will need to crawl the whole directory and its sub-directories in order to get a list of all 
+file paths before writing them to a zip file.
 The following program does this by crawling the directory to be zipped:
 
-
+"""
 
 
 # importing required modules
@@ -115,8 +111,10 @@ def main():
 
 if __name__ == "__main__":
     main()
-The output of above program looks like this:
 
+
+"""
+The output of above program looks like this:
 
 
 Let us try to understand above code by dividing into fragments:
@@ -130,11 +128,13 @@ def get_all_file_paths(directory):
             file_paths.append(filepath)
 
     return file_paths
-First of all, to get all file paths in our directory, we have created this function which uses the os.walk() method. In each iteration, all files present in that directory are appended to a list called file_paths.
+First of all, to get all file paths in our directory, we have created this function which uses the os.walk()
+ method. In each iteration, all files present in that directory are appended to a list called file_paths.
 In the end, we return all the file paths.
 
 file_paths = get_all_file_paths(directory)
-Here we pass the directory to be zipped to the get_all_file_paths() function and obtain a list containing all file paths.
+Here we pass the directory to be zipped to the get_all_file_paths() function and obtain a list containing all
+ file paths.
 
 with ZipFile('my_python_files.zip','w') as zip:
 Here, we create a ZipFile object in WRITE mode this time.
@@ -144,9 +144,6 @@ for file in file_paths:
 Here, we write all the files to the zip file one by one using write method.
 
 3. Getting all information about a zip file
-
-
-
 
 # importing required modules
 from zipfile import ZipFile
@@ -170,7 +167,8 @@ The output of above program may look like this:
 
 for info in zip.infolist():
 Here, infolist() method creates an instance of ZipInfo class which contains all the information about the zip file.
-We can access all information like last modification date of files, file names, system on which files were created, Zip version, size of files in compressed and uncompressed form, etc.
+We can access all information like last modification date of files, file names, system on which files were created, 
+Zip version, size of files in compressed and uncompressed form, etc.
 
 This article is contributed by Nikhil Kumar.
 

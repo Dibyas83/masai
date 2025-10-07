@@ -1,5 +1,3 @@
-from new.ex4 import name1
-
 n= int(input().strip())
 arr1 = list(map(int,input().split(" ")))
 def dec_merge(arr,left,mid,right):

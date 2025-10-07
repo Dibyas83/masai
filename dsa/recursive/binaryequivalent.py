@@ -40,7 +40,7 @@ def binconv(n):
 def binary(n):
     if n == 0:
         return ""
-    return binary(n//2) + str(n%2)
+    return binary(n//2) + str(n%2)  # ( ( 0 + 1 )1 )  0
 
 def main():
     t = int(input())

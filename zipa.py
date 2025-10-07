@@ -1,20 +1,16 @@
 
 """
-zip() in Python
-Last Updated : 30 Dec, 2024
-The zip() function in Python combines multiple iterables such as lists, tuples, strings, dict etc, into a single iterator of tuples. Each tuple contains elements from the input iterables that are at the same position.
+The zip() function in Python combines multiple iterables such as lists, tuples, strings, dict etc, into a
+ single iterator of tuples. Each tuple contains elements from the input iterables that are at the same position.
 
 Let’s consider an example where we need to pair student names with their test scores:
-
-
-
-
+"""
 names = ['John', 'Alice', 'Bob', 'Lucy']
 scores = [85, 90, 78, 92]
 
 res = zip(names, scores)
 print(list(res))
-
+"""
 Output
 [('John', 85), ('Alice', 90), ('Bob', 78), ('Lucy', 92)]
 Explanation:
@@ -46,9 +42,7 @@ If only one iterable is passed, the result will be a series of single-element tu
 If multiple iterables are passed, each tuple will contain one element from each iterable.
 Examples of zip()
 Below example shows how zip() works when no parameter, one and two iterable are passed into parameter.
-
-
-
+"""
 
 a = [1, 2, 3]
 b = ['a', 'b', 'c']
@@ -70,7 +64,7 @@ res = zip(a, b)
 
 # Converting iterator to list
 print(list(res))
-
+"""
 Output
 []
 [(1,), (2,), (3,)]
@@ -79,21 +73,21 @@ Iterables of different Lengths
 When using iterables of different lengths, the zip() will only pair up to the shortest iterable.
 
 
-
+"""
 
 names = ['Alice', 'Bob', 'Charlie']
 scores = [88, 94]
 
 res = zip(names, scores)
 print(list(res))
-
+"""
 Output
 [('Alice', 88), ('Bob', 94)]
 Explanation: Here, zip() stops after pairing the two available score values with the first two name values. ‘Charlie’ is left out since there’s no corresponding score value.
 
 Unzipping data with zip()
 We can also reverse the operation by unzipping the data using the * operator. Let’s see how that works:
-
+"""
 
 
 
@@ -103,7 +97,7 @@ fruits, quantities = zip(*a)
 
 print(f"Fruits: {fruits}")
 print(f"Quantities: {quantities}")
-
+"""
 Output
 Fruits: ('Apple', 'Banana', 'Orange')
 Quantities: (10, 20, 30)
@@ -113,7 +107,7 @@ Combine dictionary keys and values
 We can use zip() to combine dictionary keys and values, or even iterate over multiple dictionaries simultaneously. Here’s an example pairing dictionary keys and values.
 
 
-
+"""
 
 d = {'name': 'Alice', 'age': 25, 'grade': 'A'}
 
@@ -122,7 +116,7 @@ values = d.values()
 
 res = zip(keys, values)
 print(list(res))
-
+"""
 Output
 [('name', 'Alice'), ('age', 25), ('grade', 'A')]
 

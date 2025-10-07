@@ -38,7 +38,7 @@ balanced tree is crucial for performance
 
 
 """
-from nov.input.inputsimple import height
+from input.inputsimple import height
 
 """
 geek 

@@ -176,15 +176,6 @@ reversed_string = reverse_string(original_string)
 print(f"Reversed string: {reversed_string}") # Output: Reversed string: olleh
 
 
-
-
-
-
-
-
-
-
-
 def factorial(n):
     if n == 0:
         return 1
@@ -201,6 +192,7 @@ between them is related to what happens after the recursive call.
 Tail Recursion: This occurs when the recursive call is the last operation executed in the function, with no 
 additional work or calculation following the recursive call. In many programming languages, tail recursion can 
 be optimized by the compiler into iterative loops to improve performance and prevent stack overflow.
+
 Non-Tail Recursion: This occurs when there are operations or calculations that follow the recursive call. 
 This type prevents the compiler or interpreter from optimizing the recursion into an iteration.
 Here is a Python example that demonstrates both tail recursion and non-tail recursion:

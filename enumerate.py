@@ -7,7 +7,7 @@ enumerate() function adds a counter to each item in a list or other iterable. It
 Let’s look at a simple example of an enumerate() with a list.
 
 
-
+"""
 
 a = ["Geeks", "for", "Geeks"]
 
@@ -17,7 +17,7 @@ for i, name in enumerate(a):
 
 # Converting to a list of tuples
 print(list(enumerate(a)))
-
+"""
 Output
 Index 0: Geeks
 Index 1: for
@@ -41,10 +41,11 @@ Start: the index value from which the counter is to be started, by default it is
 Return:
 Returns an iterator with index and element pairs from the original iterable
 Using a Custom Start Index
-By using enumrate() starts indexing from 0, we can customize this using the start parameter. if want the index to begin at value other than 0.
+By using enumrate() starts indexing from 0, we can customize this using the start parameter. if want 
+the index to begin at value other than 0.
 
 
-
+"""
 
 a = ["geeks", "for", "geeks"]
 
@@ -52,7 +53,7 @@ a = ["geeks", "for", "geeks"]
 # starting the index from 1
 for index, x in enumerate(a, start=1):
     print(index, x)
-
+"""
 Output
 1 geeks
 2 for
@@ -60,7 +61,7 @@ Output
 Using Enumerate object in Loops
 Enumerate() is used with a list called a. It first prints tuples of index and element pairs. Then it changes the starting index while printing them together. Finally, it prints the index and element separately, each on its own line.
 
-
+"""
 
 
 a = ["Geeks", "for", "Geeks"]
@@ -68,7 +69,7 @@ a = ["Geeks", "for", "Geeks"]
 # printing the tuples in object directly
 for ele in enumerate(a):
     print (ele)
-
+"""
 Output
 (0, 'Geeks')
 (1, 'for')
@@ -76,7 +77,7 @@ Output
 Accessing the Next Element
 In Python, the enumerate() function serves as an iterator, inheriting all associated iterator functions and methods. Therefore, we can use the next() function and __next__() method with an enumerate object.
 
-
+"""
 
 
 a = ['Geeks', 'for', 'Geeks']
@@ -87,7 +88,7 @@ b = enumerate(a)
 # This retrieves the first index-element pair from 'b'
 nxt_val = next(b)
 print(nxt_val)
-
+"""
 Output
 (0, 'Geeks')
 We can call next() again to retrieve subsequent elements:

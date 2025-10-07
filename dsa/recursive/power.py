@@ -1,9 +1,9 @@
 
-def power(n,r,expo):
+def power(n, r, ans):
     if n == 0:
-        return expo
-    expo = expo*r
-    return power(n-1,r,expo)
+        return ans
+    ans = ans * r
+    return power(n - 1, r, ans)
 
 
 def main():
@@ -11,7 +11,7 @@ def main():
     for _ in range(t):
 
         a,b = list(map(int,input().split(" ")))
-        print(power(a,b,1)) # initial value of expo
+        print(power(a,b,1)) # initial value of ans
 
 if __name__== "__main__":
     main()
@@ -19,8 +19,12 @@ if __name__== "__main__":
 
 
 
+def tothepow(n,base):
+    if n == 0:
+        return 1
 
+    return base * tothepow(n-1, base)
 
-
+print(tothepow(4,2))
 
 

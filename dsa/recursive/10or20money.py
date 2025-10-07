@@ -1,11 +1,11 @@
 
 
-def sumof(noof,n):
-    if n == noof: # matched
+def sumof(amt,n):
+    if n == amt: # matched
         return True
-    if n < noof:
+    if n < amt:
         return False # overshot
-    return sumof(noof * 10, n) or sumof(noof * 20, n)
+    return sumof(amt * 10, n) or sumof(amt * 20, n)
 
 t = int(input())
 for _ in range(t):
@@ -18,6 +18,13 @@ for _ in range(t):
 
 
 
+x = [1, 2, 3]
+y = [4, 5, 6]
+
+for i, j in zip(x, y):
+    if i + j > 6:
+        break
+    print(i * j)
 
 
 
