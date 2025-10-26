@@ -1,5 +1,6 @@
 
 from abc import ABC ,abstractmethod
+
 class IDrivable(ABC): # methods called first without execution or late binding
     @abstractmethod
     def drive(self,distance):

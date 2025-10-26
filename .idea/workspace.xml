@@ -5,243 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
-      <change afterPath="$PROJECT_DIR$/AI/I BFSmaze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/class/abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/1 basic string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/spiral traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/sum of two equals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/top freq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/23novdatastructure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/complexity analysis_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/conditional subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/consonant after vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/fib nos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/flowerpot manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/ordered items after removing rejected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/rev_byrotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/stair steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/stock max min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/sum by recurion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/complex analys deepdive/tall building.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/convert_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/flip_row_invert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/largestsubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/maatrix_borddia sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/matrix_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/print_E.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/sal_exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/sum of two is k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/computational complexity/tic_tac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/linked/circular doubly main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/linked/linkmain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/linked/modify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/linked/reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/sum of ist n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/recursive/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/search/binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/search/coding practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/search/group_avggreater than k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/search/mainsearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/search/parallel working.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/search/seat arrangement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/search/treecut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/find 3 min and 3 max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/lambdafunc sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/make leaderboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/soting index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/stack and que/bal parenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/stack and que/stack main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/tamasee/4recursion5arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/tamasee/5Array-basedseq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/tamasee/7linked-list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/tamasee/graph/graphinyto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/1 trees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/tesst11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filehandling/14decfilehandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filehandling/18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filehandling/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 -Python projects/banking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 -Python projects/tkinterproj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Ai projects/detecting gun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Ai projects/imaje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Ai projects/imutils-for imaje.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/super uses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/array of products of ele except self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/encode and decode strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/valid sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numericalpython/panda_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numpy/nump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data analytics/numpy/numpy matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/Hash/Hash set and map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/Hash/hash neural.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/Hash/hashmapexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/Hash/heapqexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/flowerbed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/graph/avl-programiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/graph/avl-wscube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/graph/deletion-avl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/graph/insertion-avl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/graph/red black tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/icecream-coldrinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/linked/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/insertion sort linkliist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/const bintree from linkedl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/heap-linklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/heapdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/heapify up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/heapusing_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/tamasee/trees/heapwith_key_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probalbility/bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probalbility/inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probalbility/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probalbility/sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/probalbility/smple generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/project module 2 submit/test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/area calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/area calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backtracking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class main.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/class main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/13decexceptionhandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/13decexceptionhandling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/14decfilehandling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/17decfilehandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/17decfilehandling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/19-20decGenerics and Functional Programmin.py" beforeDir="false" afterPath="$PROJECT_DIR$/19-20decGenerics and Functional Programmin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/21decconcurrrencymultithreading.py" beforeDir="false" afterPath="$PROJECT_DIR$/21decconcurrrencymultithreading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/23decproject.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/ACSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/ACSV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/class/5decoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/5decoops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/class/6decoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/6decoops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/class/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/class/funcdef.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/funcdef.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/class/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/deletfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/deletfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/filehandlingassign.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/filehandlingassign.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/filehandlingassign2.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/filehandlingassign2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/filehandlingassign3.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/filehandlingassign3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/filehandlingassign4.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/filehandlingassign4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/gassign4/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/gassign4/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/gassign4/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/gassign4/16.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/gassign4/17.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/gassign4/18.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/greedy bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/gassign4/19.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/grass4.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/grass4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/inheri method overiding.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/inheri method overiding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/inheri method overiding2.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/inheri method overiding2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/inheri method overiding3.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/inheri method overiding3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/inheri method overiding4.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/inheri method overiding4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/inheri method overiding5.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/inheri method overiding5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/inheri method overiding6.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/inheri method overiding6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/matplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/data analytics/matplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/newt.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/dictprob.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/nump.py" beforeDir="false" afterPath="$PROJECT_DIR$/data analytics/nump.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/mazeai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dec/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/graph/avl.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/graph/avl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/linked list/linked list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/linked/linked list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/mergesort/descmergesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/mergesort/descmergesort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/10or20money.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/10or20money.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/binaryequivalent.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/binaryequivalent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/gcd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/power.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/power.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/staircase.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/staircase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/recursive/traversing.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/recursive/traversing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/sorting/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/sorting/bubble.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/sorting/selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/sorting/selection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/stack and que/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/stack and que/rev stringusing stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/I BFSmaze.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS maze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/greedy bfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy bfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/mazeai.py" beforeDir="false" afterPath="$PROJECT_DIR$/mazeai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI/new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashset.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/Hash/Hashset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/class/class main.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/class main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/class/inheri method overiding6.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/inheri method overiding6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/init uses.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/init uses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/ex6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/ex7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/exp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/top freq.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/top freq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data analytics/matplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/data analytics/matplot/matplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data analytics/numericalpython/6 pandas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data analytics/nump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/graph/avl.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/graph/avl_struc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa/stack and que/que.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/stack and que/que.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/stack and que/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/stack and que/checkbrackets_stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/enumerate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/file handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forr.py" beforeDir="false" afterPath="$PROJECT_DIR$/forr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/janrev/oops.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/oops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/create enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/create enumerate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/createlambda,arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/createlambda,arrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/diagonal_sum).py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/diagonal_sum).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex7.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/ex9.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/ex9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/exp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/exp2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/how many integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/how many integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/jk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/join.py" beforeDir="false" afterPath="$PROJECT_DIR$/join.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/map alphtoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/map alphtoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/matrix row col diag.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix row col diag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/merge set.py" beforeDir="false" afterPath="$PROJECT_DIR$/merge set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/merge sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/merge sorted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/min bet0&amp;1000.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/min bet0&amp;1000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/range.py" beforeDir="false" afterPath="$PROJECT_DIR$/range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/range2.py" beforeDir="false" afterPath="$PROJECT_DIR$/range2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/reduce.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/sds.py" beforeDir="false" afterPath="$PROJECT_DIR$/sds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/test54.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/stringp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new/triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/7nov.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/set,tuple,dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/9&amp;12nov.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/9&amp;12nov.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/datastructure/23novdatastructure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/datastructure/28novdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/28novdict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/datastructure/createdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/createdict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/datastructure/createset.py" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/createset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/datastructure/createtuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/createtuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/datastructure/keys and values in dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/keys and values in dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/datastructure/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict/5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/new.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/class/staticmethods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/dict/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/16nov.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/16nov.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/28inputt.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/28inputt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/30input assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/30input assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/input dict matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/input dict matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/input matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/input matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/input username pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/input username pass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/input2.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/input2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/inputsimple.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/inputsimple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/input/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/oops/2-5novoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/2-5novoops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/oops/21novoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/21novoops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/oops/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/oops/createclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/createclass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/oops/createfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/createfunc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/timespace/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/timespace/assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/timespace/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/timespace/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/timespace/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/timespace/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/timespace/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/timespace/time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/10oct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/10octq&amp;a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/11oct.py" beforeDir="false" afterPath="$PROJECT_DIR$/oct/ord-bool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/19oct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/22oct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/5oct.py" beforeDir="false" afterPath="$PROJECT_DIR$/oct/Binary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/oct/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/list2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/list3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/mix.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/group anagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/muliplitable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/multilist.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/ifduplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/oct1819qa.py" beforeDir="false" afterPath="$PROJECT_DIR$/oct/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/rev list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/reverse string.py" beforeDir="false" afterPath="$PROJECT_DIR$/oct/reverse string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/roundrobin-scheduler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/10campoperator and method overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/10campoperator and method overloading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp collection of objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp collection of objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp inherit3.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp inherit3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp inheritance2.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp inheritance2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp irctc project.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp irctc project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp passby variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp passby variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp passby1 variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp passby1 variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp relatioship bet classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp relatioship bet classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp super.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp super.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/camp types of inheritence.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/camp types of inheritence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/campus static method and var.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/campus static method and var.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/campuscreatingfraction class.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/campuscreatingfraction class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/campusoop_encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/campusoop_encapsulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/campusoop_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/campusoop_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oopclass/modulecreat.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oopclass/modulecreat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pallindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/pallindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime no.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/prime no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringa.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tamasee/1simple program.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/1simple program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tamasee/2oopss.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/2oopss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tamasee/3algorithm analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/3algorithm analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tamasee/4recursion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuplea.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuplea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit and regression testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zipa.py" beforeDir="false" afterPath="$PROJECT_DIR$/zipa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zipfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/zipfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/tamasee/1simple program.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/1simple program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/tamasee/7linked-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/7linked-list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/1 trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/trees/1 trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jan/project/git github.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project/git github.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jan/project/project1todolist.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project/project1todolist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jan/project/project2.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project/expense-tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jan/project/project3.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project/tic-tac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jan/project/project4.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project/Quiz-programme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jan/project/project5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jan/project/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy.matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/2-5novoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oops/2-5novoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/21novoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oops/21novoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oops/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/createclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oops/createclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/createfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/oops/createfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project module 2 submit/Held-karp.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project module 2 submit/Held-karp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project module 2 submit/Held-karp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project module 2 submit/Held-karp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project module 2 submit/appr0x.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project module 2 submit/appr0x.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project module 2 submit/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 -Python projects/Phone Number Details using python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project module 2 submit/use dp.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project module 2 submit/use dp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zipfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/szipfile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,8 +244,12 @@
     &quot;Python.9pandas.executor&quot;: &quot;Run&quot;,
     &quot;Python.ACESV (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Binary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hash set and map (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hash set.executor&quot;: &quot;Run&quot;,
     &quot;Python.Held-karp.executor&quot;: &quot;Run&quot;,
     &quot;Python.Held-karp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.I BFSmaze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Phone Number Details using python.executor&quot;: &quot;Run&quot;,
     &quot;Python.Subset Sum Problem.executor&quot;: &quot;Run&quot;,
     &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
     &quot;Python.abonly.executor&quot;: &quot;Run&quot;,
@@ -409,6 +258,7 @@
     &quot;Python.allpossiblepath.executor&quot;: &quot;Run&quot;,
     &quot;Python.anagram.executor&quot;: &quot;Run&quot;,
     &quot;Python.area calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.array of products of ele except self.executor&quot;: &quot;Run&quot;,
     &quot;Python.array.executor&quot;: &quot;Run&quot;,
     &quot;Python.ascichar.executor&quot;: &quot;Run&quot;,
     &quot;Python.asignment conditional statment.executor&quot;: &quot;Run&quot;,
@@ -418,6 +268,8 @@
     &quot;Python.atilia.executor&quot;: &quot;Run&quot;,
     &quot;Python.b.executor&quot;: &quot;Run&quot;,
     &quot;Python.bal parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.banking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic.executor&quot;: &quot;Run&quot;,
     &quot;Python.binary.executor&quot;: &quot;Run&quot;,
     &quot;Python.binaryequivalent.executor&quot;: &quot;Run&quot;,
     &quot;Python.binarysearch.executor&quot;: &quot;Run&quot;,
@@ -454,6 +306,7 @@
     &quot;Python.conditional subarray.executor&quot;: &quot;Run&quot;,
     &quot;Python.congeek.executor&quot;: &quot;Run&quot;,
     &quot;Python.consonant after vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.const bintree from linkedl.executor&quot;: &quot;Run&quot;,
     &quot;Python.convert_matrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.conways (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.conways.executor&quot;: &quot;Run&quot;,
@@ -478,6 +331,7 @@
     &quot;Python.def.executor&quot;: &quot;Run&quot;,
     &quot;Python.descmergesort.executor&quot;: &quot;Run&quot;,
     &quot;Python.descquiksort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detecting gun.executor&quot;: &quot;Run&quot;,
     &quot;Python.dfgdg.executor&quot;: &quot;Run&quot;,
     &quot;Python.dfgfdg.executor&quot;: &quot;Run&quot;,
     &quot;Python.dfsbacktrck.executor&quot;: &quot;Run&quot;,
@@ -490,10 +344,12 @@
     &quot;Python.dynamic prog.executor&quot;: &quot;Run&quot;,
     &quot;Python.ee.executor&quot;: &quot;Run&quot;,
     &quot;Python.election.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encode and decode strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enumerate.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex10.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex11.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex13.executor&quot;: &quot;Debug&quot;,
     &quot;Python.ex14.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex15.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
@@ -533,17 +389,28 @@
     &quot;Python.gradedassignment.executor&quot;: &quot;Run&quot;,
     &quot;Python.grass4 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.grass4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.greedy bfs (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.greedy bfs.executor&quot;: &quot;Run&quot;,
     &quot;Python.grid.executor&quot;: &quot;Run&quot;,
     &quot;Python.group anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash neural.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapify up.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapqexp (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapwith_key_value.executor&quot;: &quot;Run&quot;,
     &quot;Python.hj.executor&quot;: &quot;Run&quot;,
     &quot;Python.how many integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.icecream-coldrinks.executor&quot;: &quot;Run&quot;,
     &quot;Python.ifduplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.imaje.executor&quot;: &quot;Run&quot;,
     &quot;Python.inc_mergesort.executor&quot;: &quot;Run&quot;,
     &quot;Python.inheri method overiding.executor&quot;: &quot;Run&quot;,
     &quot;Python.inheri method overiding2.executor&quot;: &quot;Run&quot;,
     &quot;Python.inheri method overiding3.executor&quot;: &quot;Run&quot;,
     &quot;Python.inheri method overiding4.executor&quot;: &quot;Run&quot;,
     &quot;Python.inheri method overiding6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init uses.executor&quot;: &quot;Run&quot;,
     &quot;Python.input dict matrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.input matrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.input username pass (1).executor&quot;: &quot;Run&quot;,
@@ -586,6 +453,7 @@
     &quot;Python.matrix_sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.matrixa.executor&quot;: &quot;Run&quot;,
     &quot;Python.max and min.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mazeai.executor&quot;: &quot;Run&quot;,
     &quot;Python.merge set.executor&quot;: &quot;Run&quot;,
     &quot;Python.merge sorted.executor&quot;: &quot;Run&quot;,
     &quot;Python.merging arrays.executor&quot;: &quot;Run&quot;,
@@ -593,6 +461,9 @@
     &quot;Python.midencryption.executor&quot;: &quot;Run&quot;,
     &quot;Python.min bet0&amp;1000.executor&quot;: &quot;Run&quot;,
     &quot;Python.min_platform required.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.model (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
     &quot;Python.money and shopping.executor&quot;: &quot;Run&quot;,
     &quot;Python.muliplitable.executor&quot;: &quot;Run&quot;,
     &quot;Python.new.executor&quot;: &quot;Run&quot;,
@@ -601,7 +472,9 @@
     &quot;Python.note upperbound.executor&quot;: &quot;Run&quot;,
     &quot;Python.nqueen.executor&quot;: &quot;Run&quot;,
     &quot;Python.nqueens_byrow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nump (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.nump.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy matrix.executor&quot;: &quot;Run&quot;,
     &quot;Python.oct1819qa.executor&quot;: &quot;Run&quot;,
     &quot;Python.oddsum even sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.oops.executor&quot;: &quot;Run&quot;,
@@ -609,6 +482,7 @@
     &quot;Python.ordered items after removing rejected.executor&quot;: &quot;Run&quot;,
     &quot;Python.pages.executor&quot;: &quot;Run&quot;,
     &quot;Python.pallindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandasihr (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.parallel working.executor&quot;: &quot;Run&quot;,
     &quot;Python.partyor not.executor&quot;: &quot;Run&quot;,
     &quot;Python.permutationconditional.executor&quot;: &quot;Run&quot;,
@@ -685,6 +559,7 @@
     &quot;Python.sum of two is k.executor&quot;: &quot;Run&quot;,
     &quot;Python.sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.sumpair less than k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.super uses.executor&quot;: &quot;Run&quot;,
     &quot;Python.t.executor&quot;: &quot;Run&quot;,
     &quot;Python.t2.executor&quot;: &quot;Run&quot;,
     &quot;Python.tall building.executor&quot;: &quot;Run&quot;,
@@ -706,6 +581,7 @@
     &quot;Python.tkint by classes.executor&quot;: &quot;Run&quot;,
     &quot;Python.tkinter.executor&quot;: &quot;Run&quot;,
     &quot;Python.tkinterproj (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinterproj.executor&quot;: &quot;Run&quot;,
     &quot;Python.top freq.executor&quot;: &quot;Run&quot;,
     &quot;Python.traversing.executor&quot;: &quot;Run&quot;,
     &quot;Python.treecut.executor&quot;: &quot;Run&quot;,
@@ -720,30 +596,31 @@
     &quot;Python.word search.executor&quot;: &quot;Run&quot;,
     &quot;Python.zed shaw.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/masai/dsa/dpfreecodecamp&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/masai/1 -Python projects&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\1 -Python projects" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\dpfreecodecamp" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\data analytics\numericalpython" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\campusxdsa" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\oopclass" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\classes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\tamasee" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\classes\class" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\coding" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\filehandling" />
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\2 Ai projects" />
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\1 -Python projects" />
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\Hash" />
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4recursion5arrays">
-    <configuration name="4recursion5arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Phone Number Details using python">
+    <configuration name="BFS maze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -752,11 +629,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/tamasee" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/tamasee/4recursion5arrays.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\masai\BFS maze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -765,7 +642,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Phone Number Details using python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -774,11 +651,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 -Python projects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oct/Binary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 -Python projects/Phone Number Details using python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -787,7 +664,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="greedy bfs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -796,11 +673,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oct/list2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy bfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -809,7 +686,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="greedy bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -818,11 +695,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oct/list3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\masai\greedy bfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -831,7 +708,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="muliplitable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mazeai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -840,11 +717,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oct/muliplitable.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\masai\mazeai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -855,11 +732,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4recursion5arrays" />
-        <item itemvalue="Python.Binary" />
-        <item itemvalue="Python.muliplitable" />
-        <item itemvalue="Python.list3" />
-        <item itemvalue="Python.list2" />
+        <item itemvalue="Python.Phone Number Details using python" />
+        <item itemvalue="Python.greedy bfs (1)" />
+        <item itemvalue="Python.BFS maze" />
+        <item itemvalue="Python.greedy bfs" />
+        <item itemvalue="Python.mazeai" />
       </list>
     </recent_temporary>
   </component>
@@ -975,7 +852,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753461727108</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1759825891724</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759825891724</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1023,7 +908,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/classes/class/inheri method overiding6.py</url>
-          <line>29</line>
+          <line>30</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1033,7 +918,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/dsa/tamasee/1simple program.py</url>
-          <line>506</line>
+          <line>508</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">

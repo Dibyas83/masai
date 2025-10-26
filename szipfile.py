@@ -16,7 +16,7 @@ To work on zip files using python, we will use an inbuilt python module called z
 1. Extracting a zip file
 """
 # importing required modules
-from zipfile import ZipFile
+from szipfile import ZipFile
 
 # specifying the zip file name
 file_name = "my_python_files.zip"
@@ -70,7 +70,7 @@ The following program does this by crawling the directory to be zipped:
 
 
 # importing required modules
-from zipfile import ZipFile
+from szipfile import ZipFile
 import os
 
 def get_all_file_paths(directory):

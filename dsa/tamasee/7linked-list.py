@@ -533,7 +533,7 @@ The constructor instantiates the two sentinel nodes and links them directly to e
 other.
 
 """
-class DoublyLinkedBase:
+class _DoublyLinkedBase:
     class _Node:
         __slots__ = "_element" , "_prev" , "_next" # streamline memory
         def __init__(self, element, prev, next): # initialize node’s fields
@@ -567,3 +567,258 @@ class DoublyLinkedBase:
         element = node._element # record deleted element
         node._prev = node._next = node._element = None # deprecate node
         return element # return deleted element
+
+"""
+    double-ended queue (deque) ADT
+    
+With the use of sentinels, the key to our implementation is to remember that
+the header does not store the first element of the deque—it is the node just after the
+header that stores the first element (assuming the deque is nonempty). Similarly,
+the node just before the trailer stores the last element of the deque
+
+We use the inherited insert between method to insert at either end of the
+deque. To insert an element at the front of the deque, we place it immediately
+between the header and the node just after the header. An insertion at the end of
+deque is placed immediately before the trailer node
+
+"""
+
+
+class LinkedDeque(_DoublyLinkedBase): # note the use of inheritance
+
+    def first(self): # ”Return (but do not remove) the element at the front of the deque
+        if self.is_empty():
+            raise Empty("Deque is empty")
+        return self._header._next._element # real item just after header
+
+    def last(self): #Return (but do not remove) the element at the back of the deque.”””
+        if self.is_empty( ):
+            raise Empty("Deque is empty")
+        return self._trailer._prev._element # real item just before trailer
+
+    def insert_first(self, e):
+        self._insert_between(e, self._header, self._header._next) # after header
+
+    def insert_last(self, e):
+        self._insert_between(e, self._trailer._prev,self._trailer) # before trailer
+
+    def delete_first(self):
+        if self.is_empty( ):
+            raise Empty("Deque is empty")
+        return self._delete_node(self._header._next) # use inherited method
+
+    def delete_last(self):
+        if self.is_empty():
+            raise Empty("Deque is empty")
+        return self._delete_node(self._trailer._prev) # use inherited method
+    # Implementation of a LinkedDeque class that inherits from the DoublyLinkedBase class.
+
+"""
+What if a waiting customer decides to hang up before reaching the front of the customer
+service queue? Or what if someone who is waiting in line to buy tickets allows a friend to “cut” into line 
+at that position? We would like to design an abstract data type that provides a user a way to refer to 
+elements anywhere in a sequence, and to perform arbitrary insertions and deletions
+
+finding an element at a given index within a linked list requires traversing the list incrementally from its
+beginning or end, counting elements as we go. Furthermore, indices are not a good abstraction for describing 
+a local position in some applications, because the index of an entry changes over time due to inser￾tions or 
+deletions that happen earlier in the sequence
+
+A word processor uses the abstraction of a cursor to describe a position within the document without explicit 
+use of an integer index, allowing operations such as “delete the character at the cursor” or “insert a new 
+character just after the cursor.” Furthermore, we may be able to refer to an inherent position within a doc￾ument, 
+such as the beginning of a particular section, without relying on a character index (or even a section number) 
+that may change as the document evolves.
+
+the following code fragment prints all elements of a positional list named data.
+"""
+data = []
+cursor = data.first( )
+while cursor is not None:
+    print(cursor.element( )) # print the element stored at the position
+    cursor = data.after(cursor) # advance to the next position (if any)
+
+
+"""
+A PositionalList class, built upon a doubly linked list, offers a robust way to manage ordered collections of 
+elements while providing stable "positions" that remain valid even as the list undergoes modifications. This is 
+in contrast to traditional array-based lists where element indices can shift after insertions or deletions.
+Core Components:
+
+_Node Class:
+Represents an individual element within the doubly linked list.
+Stores _element (the actual data), _prev (reference to the previous node), and _next (reference to the next node).
+
+Position Class:
+A lightweight wrapper around a _Node that provides a stable reference to a location within the PositionalList.
+Stores a reference to the _node it represents and the _container (the PositionalList instance it belongs to) 
+to ensure validity.Offers a method element() to retrieve the data stored at that position.
+
+PositionalList Class:
+Initialization:
+Maintains _header and _trailer sentinel nodes, which simplify boundary conditions for insertions and deletions.
+Keeps track of _size (number of elements).
+
+Internal Utilities:
+_validate(p): Ensures a given Position p is valid and belongs to this list.
+_make_position(node): Converts a _Node into a Position object (or None if it's a sentinel).
+_insert_between(e, predecessor, successor): A core helper for inserting a new element e between two existing nodes.
+
+Public Interface (Key Methods):
+__len__(): Returns the number of elements.
+is_empty(): Checks if the list is empty.
+first(): Returns the Position of the first element.
+last(): Returns the Position of the last element.
+before(p): Returns the Position immediately preceding p.
+after(p): Returns the Position immediately following p.
+add_first(e): Inserts element e at the beginning.
+add_last(e): Inserts element e at the end.
+add_before(p, e): Inserts element e before Position p.
+add_after(p, e): Inserts element e after Position p.
+delete(p): Removes the element at Position p, returning its value.
+replace(p, e): Replaces the element at Position p with e, returning the old value.
+__iter__(): Allows iteration through the elements of the list.
+
+Advantages:
+Stable Positions: Positions remain valid even with insertions/deletions elsewhere in the list, unlike indices 
+in array-based lists.Efficient Insertions/Deletions: Operations like add_before, add_after, and delete can be 
+performed in O(1) time given a Position.
+Flexibility: Useful when maintaining references to specific elements in a dynamic list is crucial.
+
+Advantages:
+Efficient Operations: Insertions and deletions at any Position take constant time, as only a few pointer updates 
+are required.
+Stable References: Position objects remain valid even if the list undergoes modifications, unlike integer indices 
+which can become invalid after insertions/deletions.
+Bidirectional Traversal: The underlying doubly linked list allows for traversal in both forward and backward directions.
+Example (Conceptual Python-like structure):
+Python
+
+"""
+
+class PositionalLis(_DoublyLinkedBase):
+
+    def __init__(self):
+        self._header = _Node(None, None, None)
+        self._trailer = _Node(None, None, None)
+        self._header._next = self._trailer
+        self._trailer._prev = self._header
+        self._size = 0
+
+    # ... methods like add_first, add_before, delete, etc.
+    # These methods would interact with _Node objects and return Position objects.
+
+#--------------------
+class _Node:
+    def __init__(self, element, prev, next):
+        self._element = element
+        self._prev = prev
+        self._next = next
+
+class Position:
+    def __init__(self, container, node):
+        self._container = container
+        self._node = node
+
+    def element(self):
+        return self._node._element
+
+    def __eq__(self, other):
+        return type(other) is type(self) and other._node is self._node
+
+    def __ne__(self, other):
+        return not (self == other)
+
+    def _validate(self, p):
+        # Helper to ensure p is a valid Position for this list
+        if not isinstance(p, Position):
+            raise TypeError("p must be a Position type")
+        if p._container is not self:
+            raise ValueError("p does not belong to this container")
+        if p._node.next is None: # Convention for a removed node
+            raise ValueError("p is no longer valid")
+        return p._node
+
+    def _make_position(self, node):
+        # Helper to create a Position instance from a node
+        if node is self._header or node is self._trailer:
+            return None
+        return Position(self, node)
+
+    def add_between(self, e, predecessor, successor):
+        new_node = Node(e, predecessor, successor)
+        predecessor.next = new_node
+        successor.prev = new_node
+        self._size += 1
+        return self._make_position(new_node)
+
+    # ... (other methods like addFirst, addLast, before, after, remove, etc.)
+
+#------------------------------- utility method -------------------------------
+    def make_position(self, node): # Return Position instance for given node (or None if sentinel).”””
+        if node is self._header or node is self._trailer:
+            return None # boundary violation
+        else:
+            return self.Position(self, node) # legitimate position
+#------------------------------- accessors -------------------------------
+    def first(self):  # Return the first Position in the list (or None if list is empty)
+        return self._make_position(self._header._next)
+
+    def last(self): #Return the last Position in the list (or None if list is empty)
+        return self._make_position(self._trailer._prev)
+
+    def before(self, p): # Return the Position just before Position p (or None if p is first
+        node = self._validate(p)
+        return self._make_position(node._prev)
+
+    def after(self, p): # Return the Position just after Position p (or None if p is last).”””
+        node = self._validate(p)
+        return self._make_position(node. next)
+
+    def iter (self): # Generate a forward iteration of the elements of the list.”””
+        cursor = self.first( )
+        while cursor is not None:
+            yield cursor.element( )
+            cursor = self.after(cursor)
+
+#------------------------------- mutators -------------------------------
+# override inherited version to return Position, rather than Node
+    def _insert_between(self, e, predecessor, successor): # Add element between existing nodes and return new Position.”””
+        node = super()._insert_between(e, predecessor, successor)
+        return self._make_position(node)
+
+    def add_first(self, e): # Insert element e at the front of the list and return new Position.”””
+        return self._insert_between(e, self._header, self. _header._next)
+
+    def add_last(self, e): # Insert element e at the back of the list and return new Position.”””
+        return self._insert_between(e, self._trailer._prev, self._trailer)
+
+    def add_before(self, p, e): # Insert element e into list before Position p and return new Position.”””
+        original = self._validate(p)
+        return self._insert_between(e, original._prev, original)
+
+    def add_after(self, p, e): # Insert element e into list after Position p and return new Position.”””
+        original = self._validate(p)
+        return self._insert_between(e, original, original._next)
+
+    def delete(self, p): # Remove and return the element at Position p.”””
+        original = self._validate(p)
+        return self._delete_node(original) # inherited method returns element
+
+    def replace(self, p, e): #Replace the element at Position p with e.,Return the element formerly at Position p.
+        original = self._validate(p)
+        old_value = original._element # temporarily store old element
+        original._element = e # replace with new element
+        return old_value # return the old element value
+
+
+
+
+
+
+
+
+
+
+
+

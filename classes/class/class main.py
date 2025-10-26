@@ -35,15 +35,6 @@ print(Car.noof_cars,"nos")
 #--------------------------
 
 
-
-
-
-
-
-
-
-
-
 # inheritance and late binding
 class A:
 

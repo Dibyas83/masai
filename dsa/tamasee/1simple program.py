@@ -33,11 +33,13 @@ Call the .format() method on the string and pass the values you want to insert a
 Order of values:
 The values are inserted into the placeholders based on their order in the .format() method's arguments.
 Python
-
+"""
 name = "Alice"
 age = 30
 print("My name is {} and I am {} years old.".format(name, age))
 # Output: My name is Alice and I am 30 years old.
+
+"""
 Positional Arguments
 You can explicitly specify the position of the value to be inserted using numerical indices within the curly braces.
 Python
@@ -725,10 +727,9 @@ results in identifier, data, being assigned to the tuple (2, 4, 6, 8). This beha
 is called automatic packing of a tuple. One common use of packing in Python is
 when returning multiple values from a function. If the body of a function executes
 the command,
-"""
+
 return x, y
 
-"""
 it will be formally returning a single object that is the tuple (x, y).
 As a dual to the packing behavior, Python can automatically unpack a se￾quence, allowing one to assign a series of individual identifiers to the elements
 of sequence. As an example, we can write
@@ -799,21 +800,18 @@ The function, /dir/, reports the names of the identifiers in a given namespace (
 of the dictionary), while the function,/ vars/, returns the full dictionary. By default, calls 
 to dir( ) and vars( ) report on the most locally enclosing namespace in which they are executed
 
-
 first-class objects
  are instances of a type that can be assigned to an identifier, passed as a parameter, or returned by
 a function.While there is little motivation for pre￾cisely this example, it demonstrates the mechanism that
  is used by Python to al￾low one function to be passed as a parameter to another
 
-
 """
 scream = print # assign name ’scream’ to the function denoted as ’print’
-scream( Hello )
+scream( "Hello" )
 
 max(a, b, key=abs)
 #Within the body of that function, the formal parameter, key, is an identifier
 #that will be assigned to the actual parameter, abs
-
 
 """
 Modules and the Import Statement
@@ -898,9 +896,6 @@ chosen pseudo-randomly.
 shuffle(seq) Reorders the elements of the given
 sequence pseudo-randomly.
 Table 1.8: Methods supported by instances of the Random class
-
-
-
 
 """
 

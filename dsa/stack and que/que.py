@@ -21,6 +21,18 @@ Applications of Queues:
 
 
 """
+# Simulate a queue with a Python list
+que_list = []
+que_list.append('a')
+que_list.append('b')
+que_list.append('c')
+que_list.append('d')
+print(que_list.pop(0))  # not pop only but 0
+print('que_list',que_list)
+
+# deque (double-ended queue) is preferred over a list for queues because both append()
+# and popleft() run in O(1) time.popleft() efficiently removes the first element without
+# shifting, making deque ideal for queues
 from collections import deque
 q = deque()
 q.append('a')
@@ -33,13 +45,13 @@ print("Initial queue")
 print(q)
 print("\nElements dequeued from the queue")
 print(q.popleft())
-print(q.pop())
 print(q.popleft())
 print(q.popleft())
 
 print("\nQueue after removing elements")
 print(q)
-#-------------------
+
+# Python’s queue module provides a thread-safe FIFO queue. You can specify a maxsize. Key Methods are:
 from queue import Queue
 q = Queue(maxsize = 3)
 print(q.qsize())
@@ -51,6 +63,10 @@ print("\nElements dequeued from the queue")
 print(q.get())
 print(q.get())
 print(q.get())
+print(q.empty())
+print(q.full())
+print(q.qsize())
+
 print("\nEmpty: ", q.empty())
 q.put(1)
 print("\nEmpty: ", q.empty())
@@ -65,33 +81,78 @@ Initial state: front = rear = -1 (empty queue).
 Queue is empty when front == -1 .
 Queue is full when rear == max_size - 1 (for non-circular arrays).
 
-def ENQUEUE(Q, x):
-    MAX-SIZE = 7
-    if rear == MAX-SIZE:
-        Error OVERFLOW
-    else if rear == -1:
-        front = rear = 1
-    else:
-        rear = rear + 1
-    Q[rear] = x
-
 """
 #enque
-class Arrayque:
-    def __init__(self,max_size):
-        self.que = [None] * max_size
-        self.max_size = max_size
-        self.front = -1
-        self.rear = -1
+class myQueue:
+    def __init__(self, capacity):
+        # Maximum number of elements the queue can hold.
+        self.capacity = capacity
+        #  Array to store queue elements.
+        self.arr = [0] * capacity
+        #  Current number of elements in the queue.
+        self.size = 0
 
-    def enque(self,x):
-        if self.rear == self.max_size - 1:
-            print("error:overflow")
-        else:
-            if self.front == -1:
-                self.front = 0
-            self.rear += 1
-            self.que[self.rear] = x
+    # Check if queue is empty
+    def isEmpty(self):
+        return self.size == 0
+
+    # Check if queue is full
+    def isFull(self):
+        return self.size == self.capacity
+
+    # Enqueue
+    def enqueue(self, x):
+        if self.isFull():
+            print("Queue is full!")
+            return
+        self.arr[self.size] = x
+        # self.arr.append(item)
+        self.size += 1
+
+    # Dequeue-removes the front ele of the que by shifting all remaining ele one postion to left and then dec the size.
+    # Wasted space: The elements before the front pointer are never reused, so memory can be wasted if many elements are dequeued
+    def dequeue(self):
+        if self.isEmpty():
+            print("Queue is empty!")
+            return
+
+        for i in range(1, self.size):
+            self.arr[i - 1] = self.arr[i]
+        self.size -= 1
+
+
+    # Get front element
+    def getFront(self):
+        if self.isEmpty():
+            print("Queue is empty!")
+            return -1
+        return self.arr[0]
+
+    def getRear(self):
+        if self.isEmpty():
+            print("Queue is empty!")
+            return -1
+        return self.arr[self.size - 1]
+
+    def size(self):
+        """Returns the number of items in the queue."""
+        return len(self.arr)
+
+
+# Driver code
+if __name__ == '__main__':
+    q = myQueue(3)
+
+    q.enqueue(10)
+    q.enqueue(20)
+    q.enqueue(30)
+    print("Front:", q.getFront())
+
+    q.dequeue()
+    print("Front:", q.getFront())
+    print("Rear:", q.getRear())
+
+    q.enqueue(40)
 
 """
 Queue Implementation Using Circular Arrays 🔄
@@ -112,48 +173,62 @@ else
 rear = (rear % N)+1
 Q[rear] = x
 """
-
-class Circularque:
-    def __init__(self,max_size):
-        self.que = [None] * max_size
-        self.max_size = max_size
-        self.front = -1
-        self.rear = -1
-
-    def enque(self,x):
-        if (self.rear + 1) % self.max_size == self.front:
-            print("error:overflow")
-        else:
-            if self.front == -1: # first element
-                self.front = 0
-            self.rear = (self.rear + 1) % self.max_size # wrap around
-            self.que[self.rear] = x
-
-#-------
-class CircularQueue:
-    def __init__(self, max_size):
-        self.max_size = max_size
-        self.queue = [None] * max_size
+class myQueue:
+    def __init__(self, cap):
+         # fixed-size array
+        self.arr = [0]*cap
+           # index of front element
         self.front = 0
-        self.rear = 0
+          # current number of elements
         self.size = 0
+         # maximum capacity
+        self.capacity = cap
 
-    def enqueue(self, item):
-        if self.size == self.max_size:
-            print("Overflow! Queue is full.")
+    # Insert an element at the rear
+    def enqueue(self, x):
+        if self.size == self.capacity:
+            print("Queue is full!")
             return
-        self.queue[self.rear] = item
-        self.rear = (self.rear + 1) % self.max_size  # Wrap rear pointer
+        rear = (self.front + self.size) % self.capacity
+        self.arr[rear] = x # self.arr[3] = x is the 4th ele added
         self.size += 1
 
+    # Remove an element from the front
     def dequeue(self):
         if self.size == 0:
-            print("Underflow! Queue is empty.")
-            return None
-        item = self.queue[self.front]
-        self.front = (self.front + 1) % self.max_size  # Wrap front pointer
+            print("Queue is empty!")
+            return -1
+        res = self.arr[self.front]
+        self.arr[self.front] = None  # Optional: clear the dequeued slot
+        self.front = (self.front + 1) % self.capacity # front moving toward rear creating vacum
+        # if cap = 4,once dequed so front is in 1,size is 3 ,so the next ele if added willgo to index 0, as (1+ 3) % 4 = 0
         self.size -= 1
-        return item
+        return res
+
+    # Get the front element
+    def getFront(self):
+        if self.size == 0:
+            return -1
+        return self.arr[self.front]
+
+    # Get the rear element
+    def getRear(self):
+        if self.size == 0:
+            return -1
+        rear = (self.front + self.size - 1) % self.capacity
+        return self.arr[rear]
+
+if __name__ == "__main__":
+    q = myQueue(5)
+    q.enqueue(10)
+    q.enqueue(20)
+    q.enqueue(30)
+    print(q.getFront(), q.getRear())
+    q.dequeue()
+    print(q.getFront(), q.getRear())
+    q.enqueue(40)
+    print(q.getFront(), q.getRear())
+
 
 """
 Queue Implementation Using Linked Lists 🔗
@@ -163,8 +238,11 @@ Advantages:
 ✅ No fixed size.
 ✅ Memory-efficient (allocates as needed).
 ✅ No unused space.
+t can be implemented using a linked list, where each element of the queue is represented as a node.
+Two pointers/references:
 
-            
+front → points to the first node (head of the queue).
+rear → points to the last node (tail of the queue).          
 """
 
 
@@ -178,15 +256,36 @@ class Linkedque:
     def __init__(self):
         self.front = None
         self.rear = None
+        self.currSize = 0
 
+    # Check if the queue is empty
+    def isEmpty(self):
+        return self.front is None
+
+    """
+    A new node is created with the given value.If the queue is empty (front == null and rear == null), both front 
+    and rear are set to this new node.Otherwise, the current rear’s next pointer is set to the new node.
+    The rear pointer is updated to point to the new node.
+    """
     def enque(self,x):
         new_node = Node(x)
-        if self.rear is None:
+        if self.rear is None:  # or if self.isEmpty():
             self.front = self.rear = new_node
         else:
             self.rear.next = new_node
             self.rear = new_node
 
+        # increment size
+        self.currSize += 1
+
+    """
+    dequeue operation removes an element from the front of the queue.
+
+    If the queue is empty (front == null), return underflow (queue is empty).
+    Otherwise, store the current front node in a temporary pointer.
+    Move the front pointer to the next node (front = front.next).
+    If the front becomes null, also set rear = null (queue becomes empty).
+    """
     def deque(self):
         if self.front is None:
             print("underflow")  # cannot be removed
@@ -196,32 +295,45 @@ class Linkedque:
             self.front = self.front.next # after 1st item is deleted the next item becomes 1st item or front
             if self.front is None:
                 self.rear = None
+                # decrement size
+            self.currSize -= 1
             return data
 
-"""
-Once we dequeue an element from the array, the associated cell space is 
-wasted:
-• The above space cannot be reused until the queue is empty (front = rear =0)
-• Possible way to solve that?
-– Using a circular array
-– If the current rear = i then next element to be inserted at (i % N) +1
-• N = size of the array (MAX-SIZE)
-"""
+    # Return the front element
+    def get_front(self):
+        if self.isEmpty():
+            print("Queue is empty")
+            return -1
+        return self.front.data
 
-class Queue:
-    def __init__(self):
-        self.items = []
+    # Return size in O(1)
+    def size(self):
+        return self.currSize
 
-    def enqueue(self, item):
-        self.items.append(item) # O(1) time
+if __name__ == "__main__":
 
-    def dequeue(self):
-        if not self.is_empty():
-            return self.items.pop(0) # O(n) time (slow for large queues)
-        return "Queue is empty!"
+    q = Linkedque()
 
-    def is_empty(self):
-        return len(self.items) == 0
+    q.enque(10)
+    q.enque(20)
+
+    print("Dequeue:", q.deque())
+
+    q.enque(30)
+
+    print("Front:", q.get_front())
+    print("Size:", q.size())
+    """
+    Once we dequeue an element from the array, the associated cell space is 
+    wasted:
+    • The above space cannot be reused until the queue is empty (front = rear =0)
+    • Possible way to solve that?
+    – Using a circular array
+    – If the current rear = i then next element to be inserted at (i % N) +1
+    • N = size of the array (MAX-SIZE)
+    """
+
+
 
 
 

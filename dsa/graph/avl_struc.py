@@ -4,6 +4,7 @@ An AVL tree is a self-balancing binary search tree where the heights of the left
 node differ by at most one. This balance factor ensures that the tree remains relatively balanced, preventing
  worst-case scenarios that can lead to O(n) time complexity for search, insertion, and deletion operations
  in a regular binary search tree.
+
 Key Properties of AVL Trees:
 Balance Factor:
 For every node in an AVL tree, the balance factor (the difference in height between the left and right subtrees)
@@ -19,19 +20,24 @@ Insertion:
 Perform standard BST insertion.
 Trace the path from the inserted node to the root, updating the balance factors of the nodes on the path.
 If any node's balance factor becomes -2 or 2, perform rotations (single or double) to rebalance the tree.
+
 Deletion:
 Perform standard BST deletion.
 Trace the path from the deleted node's parent to the root, updating the balance factors of the nodes on the path.
 If any node's balance factor becomes -2 or 2, perform rotations to rebalance the tree.
+
 Search:
 Perform standard BST search, which takes O(log n) time in a balanced AVL tree.
 Rotations in AVL Trees:
+
 Left Rotation: Used when the right subtree is too heavy.
 Right Rotation: Used when the left subtree is too heavy.
 Left-Right Rotation: A combination of left and right rotations, used in specific imbalance cases.
 Right-Left Rotation: A combination of right and left rotations, used in specific imbalance cases.
+
 Time Complexity:
 Search: O(log n), Insertion: O(log n), and Deletion: O(log n).
+
 Applications:
 Databases and indexing, Efficient search and retrieval operations, and Situations where maintaining a
 balanced tree is crucial for performance
@@ -55,13 +61,10 @@ There exist other self-balancing BSTs also like Red Black Tree. Red Black tree i
 Example of an AVL Tree:
 The balance factors for different nodes are : 12 :1, 8:1, 18:1, 5:1, 11:0, 17:0 and 4:0. Since all differences are less than or equal to 1, the tree is an AVL tree.
 
-AVL tree
-AVL tree
-Example of a BST which is NOT AVL:
+
 The Below Tree is NOT an AVL Tree as the balance factor for nodes 8, 4 and 7 is more than 1.
 
-BST-Unbalanced
-Not an AVL Tree
+
 Operations on an AVL Tree:
 Searching : It is same as normal Binary Search Tree (BST) as an AVL Tree is always a BST. So we can use the same implementation as BST. The advantage here is time complexity is O(Log n)
 Insertion : It does rotations along with normal BST insertion to make sure that the balance factor of the impacted nodes is less than or equal to 1 after insertion
@@ -118,11 +121,17 @@ Red Black Tree
 
 """
 # height
+class _Node:
+    def __init__(self, value, left, right):
+        self._value = value
+        self._prev = left
+        self._next = right
 
-class Avlnode:
-    root.value = 10
-    root.left = 11
-    root.right = 12
+class Avl_node:
+    value = 10
+    left = 11
+    right = 12
+
     def __int__(self,key):
         self.key = key
         self.left = self.right = None # currently leaf
@@ -131,7 +140,7 @@ class Avlnode:
     def height(node):
         return node.height if node else 0
 
-# rotation
+    # rotation
 
     def rotate_right(y):
         x,t2 = y.left, y.left.right
@@ -140,7 +149,7 @@ class Avlnode:
         x.height = 1 + max(height(x.left),height(x.right))
         return x
 
-show = Avlnode(a)
+show = Avl_node(a)
 print(show.rotate_right(a))
 #--------------BFS
 
@@ -155,7 +164,186 @@ def bfs(root):
         if node.right: q.append(node.right)
 
 
+print("--------------------------------------------")
 
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
+        self.height = 1
+
+
+class AVLTree:
+    def __init__(self):
+        self.root = None
+
+    def height(self, node):
+        if not node:
+            return 0
+        return node.height
+
+    def balance(self, node):
+        if not node:
+            return 0
+        return self.height(node.left) - self.height(node.right)
+
+    def insert(self, root, value):
+        if not root:
+            return Node(value)
+        elif value < root.value:
+            root.left = self.insert(root.left, value)
+        else:
+            root.right = self.insert(root.right, value)
+
+        root.height = 1 + max(self.height(root.left), self.height(root.right))
+        balance = self.balance(root)
+
+        # Left rotation
+        if balance > 1 and value < root.left.value:
+            return self.right_rotate(root)
+
+        # Right rotation
+        if balance < -1 and value > root.right.value:
+            return self.left_rotate(root)
+
+        # Left-Right rotation
+        if balance > 1 and value > root.left.value:
+            root.left = self.left_rotate(root.left)
+            return self.right_rotate(root)
+
+        # Right-Left rotation
+        if balance < -1 and value < root.right.value:
+            root.right = self.right_rotate(root.right)
+            return self.left_rotate(root)
+
+        return root
+
+    def delete(self, root, value):
+        if not root:
+            return root
+
+        if value < root.value:
+            root.left = self.delete(root.left, value)
+        elif value > root.value:
+            root.right = self.delete(root.right, value)
+        else:
+            if not root.left:
+                temp = root.right
+                root = None
+                return temp
+            elif not root.right:
+                temp = root.left
+                root = None
+                return temp
+
+            temp = self.min_value_node(root.right)
+            root.value = temp.value
+            root.right = self.delete(root.right, temp.value)
+
+        if not root:
+            return root
+
+        root.height = 1 + max(self.height(root.left), self.height(root.right))
+        balance = self.balance(root)
+
+        # Left rotation
+        if balance > 1 and self.balance(root.left) >= 0:
+            return self.right_rotate(root)
+
+        # Right rotation
+        if balance < -1 and self.balance(root.right) <= 0:
+            return self.left_rotate(root)
+
+        # Left-Right rotation
+        if balance > 1 and self.balance(root.left) < 0:
+            root.left = self.left_rotate(root.left)
+            return self.right_rotate(root)
+
+        # Right-Left rotation
+        if balance < -1 and self.balance(root.right) > 0:
+            root.right = self.right_rotate(root.right)
+            return self.left_rotate(root)
+
+        return root
+
+    def left_rotate(self, z):
+        y = z.right
+        T2 = y.left
+
+        y.left = z
+        z.right = T2
+
+        z.height = 1 + max(self.height(z.left), self.height(z.right))
+        y.height = 1 + max(self.height(y.left), self.height(y.right))
+
+        return y
+
+    def right_rotate(self, z):
+        y = z.left
+        T3 = y.right
+
+        y.right = z
+        z.left = T3
+
+        z.height = 1 + max(self.height(z.left), self.height(z.right))
+        y.height = 1 + max(self.height(y.left), self.height(y.right))
+
+        return y
+
+    def min_value_node(self, root):
+        current = root
+        while current.left:
+            current = current.left
+        return current
+
+    def search(self, root, value):
+        if not root or root.value == value:
+            return root
+        if root.value < value:
+            return self.search(root.right, value)
+        return self.search(root.left, value)
+
+    def insert_value(self, value):
+        self.root = self.insert(self.root, value)
+
+    def delete_value(self, value):
+        self.root = self.delete(self.root, value)
+
+    def search_value(self, value):
+        return self.search(self.root, value)
+
+
+# Example usage:
+if __name__ == "__main__":
+    tree = AVLTree()
+    tree.insert_value(10)
+    tree.insert_value(20)
+    tree.insert_value(30)
+    tree.insert_value(40)
+    tree.insert_value(50)
+
+    print("Tree after insertion:")
+    # In-order traversal to print the tree
+    def inorder_traversal(root):
+        if root:
+            inorder_traversal(root.left)
+            print(root.value),
+            inorder_traversal(root.right)
+
+    inorder_traversal(tree.root)
+    print()
+
+    tree.delete_value(20)
+    print("Tree after deletion of 20:")
+    inorder_traversal(tree.root)
+    print()
+
+    result = tree.search_value(30)
+    if result:
+        print("Node found")
+    else:
+        print("Node not found")
 
 
 
