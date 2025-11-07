@@ -696,7 +696,7 @@ Python
 
 """
 
-class PositionalLis(_DoublyLinkedBase):
+class PositionalList(_DoublyLinkedBase):
 
     def __init__(self):
         self._header = _Node(None, None, None)

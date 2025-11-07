@@ -215,8 +215,8 @@ class Maze():
         img.save(filename)
 
 
-if len(sys.argv) != 2:
-    sys.exit("Usage: python maze.py maze.txt")
+    if len(sys.argv) != 2:
+        sys.exit("Usage: python maze.py maze.txt")
 
 m = Maze(sys.argv[1])
 print("Maze:")
