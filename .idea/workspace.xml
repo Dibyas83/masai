@@ -5,31 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
-      <change afterPath="$PROJECT_DIR$/EDA/POKE API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/cocrete method in abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/3sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/DP-house robber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Happy num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/LRUCache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Max subaray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/biggestbar__in_barcode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/container with most water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/longest_consecutive_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/templates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/tamasee/priority que/mainp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/AI/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/AI/Requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/AI/main1llm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/AI/test-api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/House robber2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/Pacific Atlantic waterflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/Reverse bit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/Word break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/clone graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/combination sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/counting bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/course schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/decode ways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/jump game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/longest_cmon_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/longest_inc_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/maxproduct_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/min in rotated array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/minCoin_used.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/missing no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/noofislands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/number of 1 bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/productofarray_exceptself.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/reorder routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/replace element withmaxonright.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/search in rotatedarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/slidingwindow-stockbuytime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/staircase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/unique path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/sorting dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global,local,nonlocal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS maze.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS maze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding/leetcode/sum of two equals.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/sum two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/7linked-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/7linked-list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/1 trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/trees/1 trees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/heap-linklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/priority que/heap-linklist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/priority que/heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/heapdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/priority que/heapdict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/heapify up.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/priority que/heapify up.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/heapusing_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/priority que/heapusing_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/tamasee/trees/heapwith_key_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/tamasee/priority que/heapwith_key_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/1 basic string.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/basic string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/array of products of ele except self.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/ifduplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/ifduplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/longest_consecutive_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/longest_consecutive_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/sum two.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/sum two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filehandling/16.py" beforeDir="false" afterPath="$PROJECT_DIR$/filehandling/16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -444,6 +457,7 @@
     &quot;Python.prime no.executor&quot;: &quot;Run&quot;,
     &quot;Python.prims.executor&quot;: &quot;Run&quot;,
     &quot;Python.print_E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.productofarray_exceptself.executor&quot;: &quot;Run&quot;,
     &quot;Python.proj 1 life.executor&quot;: &quot;Run&quot;,
     &quot;Python.project4.executor&quot;: &quot;Run&quot;,
     &quot;Python.q1.executor&quot;: &quot;Run&quot;,
@@ -486,6 +500,7 @@
     &quot;Python.shortest path with obstacles usimg que.executor&quot;: &quot;Run&quot;,
     &quot;Python.simple program.executor&quot;: &quot;Run&quot;,
     &quot;Python.simulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting dictionary.executor&quot;: &quot;Run&quot;,
     &quot;Python.soting index.executor&quot;: &quot;Run&quot;,
     &quot;Python.spiderman.executor&quot;: &quot;Run&quot;,
     &quot;Python.spiral traversal.executor&quot;: &quot;Run&quot;,
@@ -564,15 +579,15 @@
       <recent name="C:\Users\lenovo\PycharmProjects\masai\oopclass" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\masai\API\AI" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\tamasee\priority que" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\2 Ai projects" />
       <recent name="C:\Users\lenovo\PycharmProjects\masai\1 -Python projects" />
-      <recent name="C:\Users\lenovo\PycharmProjects\masai\dsa\Hash" />
     </key>
   </component>
   <component name="RunManager" selected="Python.longest_consecutive_sequence">
-    <configuration name="Max subaray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -581,33 +596,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/filehandling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/leetcode/Max subaray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="biggestbar__in_barcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Masai" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/leetcode/biggestbar__in_barcode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filehandling/16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -638,7 +631,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="productofarray_exceptself" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -651,7 +644,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\masai\coding\leetcode\sum two.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/leetcode/productofarray_exceptself.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -660,7 +653,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sorting dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/sorting dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="staircase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -673,7 +688,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/leetcode/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/leetcode/staircase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -685,10 +700,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.longest_consecutive_sequence" />
-        <item itemvalue="Python.biggestbar__in_barcode" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Max subaray" />
-        <item itemvalue="Python.sum two" />
+        <item itemvalue="Python.sorting dictionary" />
+        <item itemvalue="Python.staircase" />
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.productofarray_exceptself" />
       </list>
     </recent_temporary>
   </component>
@@ -828,7 +843,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761481798568</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1762511427943</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762511427944</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

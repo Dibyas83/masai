@@ -8,6 +8,8 @@
 class Solut:
     def longest_consi_seq(self,nums: list[int]) -> int:
         numsset = set(nums)
+        end = 0
+        start = 0
         longest = 0
         for n in nums:
             if n-1 not in numsset:
@@ -15,7 +17,9 @@ class Solut:
                 while (n+ leng) in numsset:
                     leng += 1
                 longest = max(longest ,leng)
-        return longest
+                start = n
+                end = n + leng
+        return longest, start, end
 
 o = [1,2,2,4,6,2,7,8,9,1,2,6]
 u = Solut()

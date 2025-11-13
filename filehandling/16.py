@@ -26,3 +26,20 @@ def big_matrix():
         print(sum2)
 
 big_matrix()
+
+"""
+4 5
+1 2 3 4 5
+2 3 4 5 6
+3 4 5 6 7
+3 5 7 9 1
+4 5
+1 2 3 4 5
+2 3 4 5 6
+3 4 5 6 7
+3 5 7 9 1
+85
+
+Process finished with exit code 0
+
+"""

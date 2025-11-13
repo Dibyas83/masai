@@ -18,7 +18,8 @@ targ = 12
 print(twosum(targ,list1))
 
 class sollu:
-    def t2sum(self, l: list[int],targ: int) -> list[int]: # eliminating from end right pointer moves left to dec or movw left pointer to right to inc(not right pointer to right-limit cross )
+    def t2sum(self, l: list[int],targ: int) -> list[int]: # eliminating from end right pointer moves left
+        # to dec or movw left pointer to right to inc(not right pointer to right-limit cross )
         i,n1 = 0,len(l)
         while i < n1:
             currsum = l[i] + l[n1]

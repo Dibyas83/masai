@@ -1,6 +1,6 @@
 
 def ifdupli(lista):
-    se = set()
+    se = set() # hash set
     l = len(lista)
     for i in range(l):
         if lista[i] in se:
@@ -14,6 +14,6 @@ def ifdupli(lista):
 lista = [1,2,3,4,5,6,2]
 print(ifdupli(lista))
 
-
+# by sorting nlogn , then comparing to next
 
 
