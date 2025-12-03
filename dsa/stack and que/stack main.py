@@ -31,6 +31,25 @@ TOP-ELEMENT() Returns the top element without removing it.
 Infix <Operand> <Operator> <Operand> A + B
 Prefix (Polish Notation) <Operator> <Operand> <Operand> + A B
 Postfix (Reverse Polish Notation) <Operand> <Operand> <Operator> A B +
+
+PUSH(S, x) {
+if (top == MAX-SIZE)
+error "OVERFLOW";
+else {
+top = top + 1;
+S[top] = x;
+}
+}
+
+POP(S) {
+if (top == 0)
+error "UNDERFLOW";
+else {
+top = top - 1;
+return S[top + 1];
+}
+}
+
 """
 
 

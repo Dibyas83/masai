@@ -8,7 +8,7 @@ def anagram(s1,s2):
     keys = string.ascii_lowercase
     charfreq = dict.fromkeys(keys,0)
     for i in range(len(s1)):
-        charfreq[s1[i]] += 1
+        charfreq[s1[i]] += 1  # s1[i] = c   s2[i] = d    -1 + 1 = 0
         charfreq[s2[i]] -= 1
     print(charfreq)
 
