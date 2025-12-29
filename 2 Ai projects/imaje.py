@@ -6,6 +6,8 @@ import cv2
 import imutils
 import datetime
 
+from matplotlib import pyplot as plt
+
 gun_cascade = cv2.CascadeClassifier('cascade.xml')
 camera = cv2.VideoCapture(0)
 firstFrame = None

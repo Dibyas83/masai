@@ -5,56 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
-      <change afterPath="$PROJECT_DIR$/1 -Python projects/Slot_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 -Python projects/password_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 -Python projects/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/,akenon_overlapping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Alien Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Insert interval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Linkedlist_cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Meeting room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Meeting room2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/Setmatrix_zreo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/anagram_groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/binarytree_levelorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/binarytree_maxpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/connectedcomp_undirectedgraph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/consttree_frominorderpreorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/graph valid tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/implementTrie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/invert binarytree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/kthsmallinBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/longest_nonrepeat_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/longest_repeat_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/longestsubstr_pallindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/lowest_cmn_ancestorofBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/maxdepth_ofdfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/merge intervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/merge_k_sortedlinklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/merge_sortedlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/min_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/noofsub_pallindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/rem_nthnode_fromend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/reorder_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/rev_linklist_rec_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/rotate matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/same tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/serialize and deserializebintree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/spiral matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/subtree_ofanathertree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/valid_pallindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/valid_parenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/validate_binarytree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/leetcode/word_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/sum of n nos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cryptography/freecodecamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/tesst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/sorting/sortdesc_mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/sorting/sorted index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/sorting/sorting_desc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/sorting/sumofpairs_closestto_k.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding/leetcode/anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding/leetcode/encode and decode strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/encode and decode strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/sorting/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/sorting/bubble.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/sorting/quick.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/sorting/quick.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/sorting/selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/sorting/selection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/stack and que/stack main.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/stack and que/stack main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Ai projects/imaje.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Ai projects/imaje.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/sorting/soting index.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/sorting/soting index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oct/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/oct/stringg.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,497 +56,500 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1 Knapsack using Branch and Bound.executor": "Run",
-    "Python.1 basic string.executor": "Run",
-    "Python.1 intro.executor": "Run",
-    "Python.1 trees.executor": "Run",
-    "Python.1.executor": "Run",
-    "Python.10 matplotlib.executor": "Run",
-    "Python.10oct.executor": "Run",
-    "Python.10octq&a.executor": "Run",
-    "Python.10or20money.executor": "Run",
-    "Python.10rec linklist2.executor": "Run",
-    "Python.10ways_of_targetstring.executor": "Run",
-    "Python.11 line_matplotlib.executor": "Run",
-    "Python.11find maxin a linkedlist and replace it with a given value.executor": "Run",
-    "Python.11oct.executor": "Run",
-    "Python.12rev a linklist of int.executor": "Run",
-    "Python.12scatter_plot-matplotlib.executor": "Run",
-    "Python.12tabularsolving.executor": "Run",
-    "Python.13 grid traveller.executor": "Run",
-    "Python.13convert astrix to space.executor": "Run",
-    "Python.13decexceptionhandling (1).executor": "Run",
-    "Python.13decexceptionhandling.executor": "Run",
-    "Python.13piechart-matplotlib.executor": "Run",
-    "Python.14 stack.executor": "Run",
-    "Python.14.executor": "Run",
-    "Python.14cansum  tabulation.executor": "Run",
-    "Python.14decfilehandling.executor": "Run",
-    "Python.14nov.executor": "Run",
-    "Python.15.executor": "Run",
-    "Python.15howsum  tabulation.executor": "Run",
-    "Python.16.executor": "Run",
-    "Python.16bestsum  tabulation.executor": "Run",
-    "Python.16nov.executor": "Run",
-    "Python.16que.executor": "Run",
-    "Python.16queueee (1).executor": "Run",
-    "Python.17.executor": "Run",
-    "Python.17cancontructstring.executor": "Run",
-    "Python.17decfilehandling.executor": "Run",
-    "Python.18countcontructstring.executor": "Run",
-    "Python.18hashin.executor": "Run",
-    "Python.18nov.executor": "Run",
-    "Python.19-20decGenerics and Functional Programmin (1).executor": "Run",
-    "Python.19-20decGenerics and Functional Programmin.executor": "Run",
-    "Python.19.executor": "Run",
-    "Python.19allwaystoconst_string.executor": "Run",
-    "Python.19decGenerics and Functional Programmin.executor": "Run",
-    "Python.19hashin  by chaining.executor": "Run",
-    "Python.19oct.executor": "Run",
-    "Python.1decoopsass.executor": "Run",
-    "Python.2-4nov.executor": "Run",
-    "Python.2-5nov (1).executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.20.executor": "Run",
-    "Python.20linearsearch.executor": "Run",
-    "Python.20n0vmulti.executor": "Run",
-    "Python.21 recursion.executor": "Run",
-    "Python.210ctsol.executor": "Run",
-    "Python.21decconcurrrencymultithreading.executor": "Run",
-    "Python.21novoops.executor": "Run",
-    "Python.22oct.executor": "Run",
-    "Python.22rec with memoization.executor": "Run",
-    "Python.23novdatastructure.executor": "Run",
-    "Python.24oct.executor": "Run",
-    "Python.25.executor": "Run",
-    "Python.26oct.executor": "Run",
-    "Python.26octmulti.executor": "Run",
-    "Python.27octsol.executor": "Run",
-    "Python.27octsol2 (1).executor": "Run",
-    "Python.27octsol2.executor": "Run",
-    "Python.28inputt (1).executor": "Run",
-    "Python.28inputt.executor": "Run",
-    "Python.28nov.executor": "Run",
-    "Python.28novdict.executor": "Run",
-    "Python.29oct.executor": "Run",
-    "Python.2nov.executor": "Run",
-    "Python.2time and space complexity.executor": "Run",
-    "Python.2traveller on 2dgrid.executor": "Run",
-    "Python.3 howsum in array.executor": "Run",
-    "Python.3 targetsum in array.executor": "Run",
-    "Python.3.executor": "Run",
-    "Python.30input assignment.executor": "Run",
-    "Python.30nov.executor": "Run",
-    "Python.30novmultilist.executor": "Run",
-    "Python.310ctstringsol.executor": "Run",
-    "Python.3algorithm analysis.executor": "Run",
-    "Python.3sum.executor": "Run",
-    "Python.4.executor": "Run",
-    "Python.4howsum in array (1).executor": "Run",
-    "Python.4howsum in array.executor": "Run",
-    "Python.4inheritance.executor": "Run",
-    "Python.4looping.executor": "Run",
-    "Python.4nov.executor": "Run",
-    "Python.4recursion.executor": "Run",
-    "Python.4recursion5arrays.executor": "Run",
-    "Python.4search,filter,sort array.executor": "Run",
-    "Python.5 no in arr.executor": "Run",
-    "Python.5.executor": "Run",
-    "Python.5aggregating func.executor": "Run",
-    "Python.5decoops.executor": "Run",
-    "Python.5oct.executor": "Run",
-    "Python.5special methd in our classes.executor": "Run",
-    "Python.6 pandas.executor": "Run",
-    "Python.6.executor": "Run",
-    "Python.6decoops.executor": "Run",
-    "Python.7linked list.executor": "Run",
-    "Python.7nov.executor": "Run",
-    "Python.7pandas col transformation.executor": "Run",
-    "Python.8 shortest combfor targetsum.executor": "Run",
-    "Python.8pandas merge, join,concanate.executor": "Run",
-    "Python.9 targetstring.executor": "Run",
-    "Python.9&12nov (1).executor": "Run",
-    "Python.9&12nov.executor": "Run",
-    "Python.9nov.executor": "Run",
-    "Python.9pandas.executor": "Run",
-    "Python.ACESV (1).executor": "Run",
-    "Python.BFS maze (1).executor": "Run",
-    "Python.Binary.executor": "Run",
-    "Python.Englishruler.executor": "Run",
-    "Python.Hash set and map (1).executor": "Run",
-    "Python.Hash set.executor": "Run",
-    "Python.Held-karp.executor": "Run",
-    "Python.Held-karp2.executor": "Run",
-    "Python.I BFSmaze.executor": "Run",
-    "Python.Max subaray.executor": "Run",
-    "Python.POKE API.executor": "Run",
-    "Python.Phone Number Details using python.executor": "Run",
-    "Python.Subset Sum Problem.executor": "Run",
-    "Python.__main__.executor": "Run",
-    "Python.abonly.executor": "Run",
-    "Python.add remove ele in arrays.executor": "Run",
-    "Python.add,sub cost.executor": "Run",
-    "Python.allpossiblepath.executor": "Run",
-    "Python.anagram.executor": "Run",
-    "Python.area calculator.executor": "Run",
-    "Python.array of products of ele except self.executor": "Run",
-    "Python.array.executor": "Run",
-    "Python.ascichar.executor": "Run",
-    "Python.asignment conditional statment.executor": "Run",
-    "Python.assignment (1).executor": "Run",
-    "Python.assignment graded.executor": "Run",
-    "Python.assignment.executor": "Run",
-    "Python.atilia.executor": "Run",
-    "Python.b.executor": "Run",
-    "Python.bal parenthesis.executor": "Run",
-    "Python.banking.executor": "Run",
-    "Python.basic.executor": "Run",
-    "Python.biggestbar__in_barcode.executor": "Run",
-    "Python.binary.executor": "Run",
-    "Python.binaryequivalent.executor": "Run",
-    "Python.binarysearch.executor": "Run",
-    "Python.buysellstock.executor": "Run",
-    "Python.buywith_k_coins.executor": "Run",
-    "Python.camp collection of objects.executor": "Run",
-    "Python.camp inherit3.executor": "Run",
-    "Python.camp inheritance2.executor": "Run",
-    "Python.camp passby variable.executor": "Run",
-    "Python.camp reference variable.executor": "Run",
-    "Python.camp relatioship bet classes.executor": "Run",
-    "Python.camp super.executor": "Run",
-    "Python.camp types of inheritence.executor": "Run",
-    "Python.campoperator and method overloading.executor": "Run",
-    "Python.campus static method and var.executor": "Run",
-    "Python.campuscreatingfraction class.executor": "Run",
-    "Python.campusoop_encapsulation.executor": "Run",
-    "Python.campusoop_project.executor": "Run",
-    "Python.chaiwala.executor": "Run",
-    "Python.childlist (1).executor": "Run",
-    "Python.circularmain.executor": "Run",
-    "Python.class main.executor": "Run",
-    "Python.class.executor": "Run",
-    "Python.classes.executor": "Run",
-    "Python.classs variable instance variable (1).executor": "Run",
-    "Python.classs.executor": "Run",
-    "Python.coding practice.executor": "Run",
-    "Python.coinai.executor": "Run",
-    "Python.coins.executor": "Run",
-    "Python.coinsused.executor": "Run",
-    "Python.comb.executor": "Run",
-    "Python.combination1 of k items.executor": "Run",
-    "Python.conditional statementloop.executor": "Run",
-    "Python.conditional subarray.executor": "Run",
-    "Python.congeek.executor": "Run",
-    "Python.consonant after vowels.executor": "Run",
-    "Python.const bintree from linkedl.executor": "Run",
-    "Python.convert_matrix.executor": "Run",
-    "Python.conways (1).executor": "Run",
-    "Python.conways.executor": "Run",
-    "Python.corona puchaspow.executor": "Run",
-    "Python.count.executor": "Run",
-    "Python.countinversion.executor": "Run",
-    "Python.countinversions.executor": "Run",
-    "Python.create enumerate.executor": "Run",
-    "Python.createclass.executor": "Run",
-    "Python.createdict.executor": "Run",
-    "Python.createfunc.executor": "Run",
-    "Python.createlambda,arrays (1).executor": "Run",
-    "Python.createlambda,arrays.executor": "Run",
-    "Python.createset.executor": "Run",
-    "Python.createstring.executor": "Run",
-    "Python.createtuple.executor": "Run",
-    "Python.csv.executor": "Run",
-    "Python.dance night.executor": "Run",
-    "Python.datastructure.executor": "Run",
-    "Python.datetim (1).executor": "Run",
-    "Python.datetime.executor": "Run",
-    "Python.def.executor": "Run",
-    "Python.descmergesort.executor": "Run",
-    "Python.descquiksort.executor": "Run",
-    "Python.detecting gun.executor": "Run",
-    "Python.dfgdg.executor": "Run",
-    "Python.dfgfdg.executor": "Run",
-    "Python.dfsbacktrck.executor": "Run",
-    "Python.diagonal_sum).executor": "Run",
-    "Python.diagonalcrossingthekey.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.dijikstra algo.executor": "Run",
-    "Python.div.executor": "Run",
-    "Python.dynamic  array.executor": "Run",
-    "Python.dynamic prog.executor": "Run",
-    "Python.ee.executor": "Run",
-    "Python.election.executor": "Run",
-    "Python.encode and decode strings.executor": "Run",
-    "Python.enumerate.executor": "Run",
-    "Python.ex10.executor": "Run",
-    "Python.ex11.executor": "Run",
-    "Python.ex12.executor": "Run",
-    "Python.ex13.executor": "Debug",
-    "Python.ex14.executor": "Run",
-    "Python.ex15.executor": "Run",
-    "Python.ex3.executor": "Run",
-    "Python.ex4.executor": "Run",
-    "Python.ex5.executor": "Run",
-    "Python.ex6.executor": "Run",
-    "Python.ex7.executor": "Run",
-    "Python.ex8.executor": "Run",
-    "Python.ex9.executor": "Run",
-    "Python.exam.executor": "Run",
-    "Python.exceptionhandling.executor": "Run",
-    "Python.exp.executor": "Run",
-    "Python.exp2.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.fg.executor": "Run",
-    "Python.fib nos.executor": "Run",
-    "Python.fib.executor": "Run",
-    "Python.filehandlingassign.executor": "Run",
-    "Python.filehandlingassign2.executor": "Run",
-    "Python.find 3 min and 3 max.executor": "Run",
-    "Python.find begendcount.executor": "Run",
-    "Python.findsuma,b fortarget.executor": "Run",
-    "Python.fjh.executor": "Run",
-    "Python.flip_row_invert.executor": "Run",
-    "Python.for.executor": "Run",
-    "Python.forr (1).executor": "Run",
-    "Python.freqk.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.gasstationbest.executor": "Run",
-    "Python.gcd.executor": "Run",
-    "Python.generatesubsequences.executor": "Run",
-    "Python.giftpurchase.executor": "Run",
-    "Python.githubcon.executor": "Run",
-    "Python.gitpygame.executor": "Run",
-    "Python.google map djikstra.executor": "Run",
-    "Python.graded3.executor": "Run",
-    "Python.gradedassignment.executor": "Run",
-    "Python.graph valid tree.executor": "Run",
-    "Python.grass4 (1).executor": "Run",
-    "Python.grass4.executor": "Run",
-    "Python.greedy bfs (1).executor": "Run",
-    "Python.greedy bfs.executor": "Run",
-    "Python.grid.executor": "Run",
-    "Python.group anagrams.executor": "Run",
-    "Python.hash neural.executor": "Run",
-    "Python.heap.executor": "Run",
-    "Python.heapify up.executor": "Run",
-    "Python.heapq.executor": "Run",
-    "Python.heapqexp (1).executor": "Run",
-    "Python.heapwith_key_value.executor": "Run",
-    "Python.hj.executor": "Run",
-    "Python.how many integers.executor": "Run",
-    "Python.icecream-coldrinks.executor": "Run",
-    "Python.ifduplicate.executor": "Run",
-    "Python.imaje.executor": "Run",
-    "Python.inc_mergesort.executor": "Run",
-    "Python.inheri method overiding.executor": "Run",
-    "Python.inheri method overiding2.executor": "Run",
-    "Python.inheri method overiding3.executor": "Run",
-    "Python.inheri method overiding4.executor": "Run",
-    "Python.inheri method overiding6.executor": "Run",
-    "Python.init uses.executor": "Run",
-    "Python.input dict matrix.executor": "Run",
-    "Python.input matrix.executor": "Run",
-    "Python.input username pass (1).executor": "Run",
-    "Python.input2.executor": "Run",
-    "Python.inputsimple.executor": "Run",
-    "Python.inputt.executor": "Run",
-    "Python.insertion.executor": "Run",
-    "Python.jk.executor": "Run",
-    "Python.join  func.executor": "Run",
-    "Python.join.executor": "Run",
-    "Python.kl.executor": "Run",
-    "Python.kth smallest.executor": "Run",
-    "Python.kth smallest2.executor": "Run",
-    "Python.lab1.executor": "Run",
-    "Python.lambda,.executor": "Run",
-    "Python.lambda.executor": "Run",
-    "Python.lambdafunc sort.executor": "Run",
-    "Python.largestsubstring.executor": "Run",
-    "Python.linkmain (1).executor": "Run",
-    "Python.list (1).executor": "Run",
-    "Python.list comprehension.executor": "Run",
-    "Python.list create.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.list1.executor": "Run",
-    "Python.list2.executor": "Run",
-    "Python.list3.executor": "Run",
-    "Python.longest possible route.executor": "Run",
-    "Python.longest_consecutive_sequence.executor": "Run",
-    "Python.low and up notes.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.make leaderboard.executor": "Run",
-    "Python.map (1).executor": "Run",
-    "Python.map alphtoint.executor": "Run",
-    "Python.map.executor": "Run",
-    "Python.masai election.executor": "Run",
-    "Python.math operations and functions on array.executor": "Run",
-    "Python.matplot.executor": "Run",
-    "Python.matrix row col diag.executor": "Run",
-    "Python.matrix.executor": "Run",
-    "Python.matrix_sum.executor": "Run",
-    "Python.matrixa.executor": "Run",
-    "Python.max and min.executor": "Run",
-    "Python.mazeai.executor": "Run",
-    "Python.merge set.executor": "Run",
-    "Python.merge sorted.executor": "Run",
-    "Python.merging arrays.executor": "Run",
-    "Python.mid2.executor": "Run",
-    "Python.midencryption.executor": "Run",
-    "Python.min bet0&1000.executor": "Run",
-    "Python.min_platform required.executor": "Run",
-    "Python.model (1).executor": "Run",
-    "Python.model (2).executor": "Run",
-    "Python.model.executor": "Run",
-    "Python.money and shopping.executor": "Run",
-    "Python.muliplitable.executor": "Run",
-    "Python.new.executor": "Run",
-    "Python.newindex.executor": "Run",
-    "Python.newt.executor": "Run",
-    "Python.note upperbound.executor": "Run",
-    "Python.nqueen.executor": "Run",
-    "Python.nqueens_byrow.executor": "Run",
-    "Python.nump (1).executor": "Run",
-    "Python.nump.executor": "Run",
-    "Python.numpy matrix.executor": "Run",
-    "Python.oct1819qa.executor": "Run",
-    "Python.oddsum even sum.executor": "Run",
-    "Python.oops.executor": "Run",
-    "Python.oopss.executor": "Run",
-    "Python.ordered items after removing rejected.executor": "Run",
-    "Python.pages.executor": "Run",
-    "Python.pallindrome.executor": "Run",
-    "Python.pandasihr (1).executor": "Run",
-    "Python.parallel working.executor": "Run",
-    "Python.partyor not.executor": "Run",
-    "Python.password_manager.executor": "Run",
-    "Python.permutationconditional.executor": "Run",
-    "Python.permutaton1.executor": "Run",
-    "Python.pivas1st.executor": "Run",
-    "Python.polymerphism.executor": "Run",
-    "Python.power.executor": "Run",
-    "Python.practice.executor": "Run",
-    "Python.prime no.executor": "Run",
-    "Python.prims.executor": "Run",
-    "Python.print_E.executor": "Run",
-    "Python.productofarray_exceptself.executor": "Run",
-    "Python.proj 1 life.executor": "Run",
-    "Python.project4.executor": "Run",
-    "Python.q1.executor": "Run",
-    "Python.q10.executor": "Run",
-    "Python.q11.executor": "Run",
-    "Python.q12.executor": "Run",
-    "Python.q13.executor": "Run",
-    "Python.q14.executor": "Run",
-    "Python.q2.executor": "Run",
-    "Python.q3.executor": "Run",
-    "Python.q4.executor": "Run",
-    "Python.q5.executor": "Run",
-    "Python.q6.executor": "Run",
-    "Python.q7.executor": "Run",
-    "Python.q8.executor": "Run",
-    "Python.q9.executor": "Run",
-    "Python.que.executor": "Run",
-    "Python.query.executor": "Run",
-    "Python.quick.executor": "Run",
-    "Python.randoms.executor": "Run",
-    "Python.range (1).executor": "Run",
-    "Python.range,2dlist.executor": "Run",
-    "Python.range2.executor": "Run",
-    "Python.rat path.executor": "Run",
-    "Python.rec insertion and del linklist.executor": "Run",
-    "Python.recursion.executor": "Run",
-    "Python.reduce.executor": "Run",
-    "Python.regular,class and static methods.executor": "Run",
-    "Python.rev21.executor": "Run",
-    "Python.rev_byrotation.executor": "Run",
-    "Python.reverse string.executor": "Run",
-    "Python.revnum.executor": "Run",
-    "Python.roundtable.executor": "Run",
-    "Python.sal_exp.executor": "Run",
-    "Python.sds.executor": "Run",
-    "Python.search.executor": "Run",
-    "Python.seat arrangement.executor": "Run",
-    "Python.selection.executor": "Run",
-    "Python.sherlock suit.executor": "Run",
-    "Python.shortest path with obstacles usimg que.executor": "Run",
-    "Python.simple program.executor": "Run",
-    "Python.simulation.executor": "Run",
-    "Python.sorting dictionary.executor": "Run",
-    "Python.soting index.executor": "Run",
-    "Python.spiderman.executor": "Run",
-    "Python.spiral traversal.executor": "Run",
-    "Python.stack main.executor": "Run",
-    "Python.stack using arrays.executor": "Run",
-    "Python.stack.executor": "Run",
-    "Python.stair steps.executor": "Run",
-    "Python.staircase.executor": "Run",
-    "Python.stock max min.executor": "Run",
-    "Python.string.executor": "Run",
-    "Python.stringa.executor": "Run",
-    "Python.stringaddition.executor": "Run",
-    "Python.stringcreate.executor": "Run",
-    "Python.subset sum.executor": "Run",
-    "Python.sukoku_rule.executor": "Run",
-    "Python.sum by recurion.executor": "Run",
-    "Python.sum in matrix.executor": "Run",
-    "Python.sum of ist n.executor": "Run",
-    "Python.sum of list.executor": "Run",
-    "Python.sum of n nos.executor": "Run",
-    "Python.sum of two equals.executor": "Run",
-    "Python.sum of two is k.executor": "Run",
-    "Python.sum two (1).executor": "Run",
-    "Python.sum.executor": "Run",
-    "Python.sumpair less than k.executor": "Run",
-    "Python.super uses.executor": "Run",
-    "Python.t.executor": "Run",
-    "Python.t2.executor": "Run",
-    "Python.tall building.executor": "Run",
-    "Python.targetsuminarray.executor": "Run",
-    "Python.ternaryoperator.executor": "Run",
-    "Python.tesst11.executor": "Run",
-    "Python.test (1).executor": "Run",
-    "Python.test (2).executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test1 (1).executor": "Run",
-    "Python.test1.executor": "Run",
-    "Python.test2 (1).executor": "Run",
-    "Python.test2.executor": "Run",
-    "Python.test54.executor": "Run",
-    "Python.tic_tac.executor": "Run",
-    "Python.tim.executor": "Run",
-    "Python.time measure.executor": "Run",
-    "Python.time.executor": "Run",
-    "Python.tkint by classes.executor": "Run",
-    "Python.tkinter.executor": "Run",
-    "Python.tkinterproj (1).executor": "Run",
-    "Python.tkinterproj.executor": "Run",
-    "Python.top freq.executor": "Run",
-    "Python.traversing.executor": "Run",
-    "Python.treecut.executor": "Run",
-    "Python.trees.executor": "Run",
-    "Python.triangle.executor": "Run",
-    "Python.tribonacci.executor": "Run",
-    "Python.uiiu.executor": "Run",
-    "Python.username pass.executor": "Run",
-    "Python.validate bst.executor": "Run",
-    "Python.validate_binarytree.executor": "Run",
-    "Python.visiting city.executor": "Run",
-    "Python.wall area.executor": "Run",
-    "Python.word search.executor": "Run",
-    "Python.word_search.executor": "Run",
-    "Python.zed shaw.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/masai/coding/leetcode",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1 Knapsack using Branch and Bound.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1 basic string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1 intro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1 trees.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10 matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10octq&amp;a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10or20money.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10rec linklist2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10ways_of_targetstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11 line_matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11find maxin a linkedlist and replace it with a given value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12rev a linklist of int.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12scatter_plot-matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12tabularsolving.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 grid traveller.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13convert astrix to space.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13decexceptionhandling (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.13decexceptionhandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13piechart-matplotlib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14cansum  tabulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14decfilehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15howsum  tabulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16bestsum  tabulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16que.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16queueee (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17cancontructstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17decfilehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18countcontructstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18hashin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-20decGenerics and Functional Programmin (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.19-20decGenerics and Functional Programmin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19allwaystoconst_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19decGenerics and Functional Programmin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19hashin  by chaining.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1decoopsass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-4nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2-5nov (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20linearsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20n0vmulti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21 recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.210ctsol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21decconcurrrencymultithreading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21novoops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22rec with memoization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23novdatastructure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26octmulti.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27octsol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27octsol2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.27octsol2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28inputt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.28inputt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28novdict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.29oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2time and space complexity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2traveller on 2dgrid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 howsum in array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3 targetsum in array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30input assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.30novmultilist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.310ctstringsol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3algorithm analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4howsum in array (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.4howsum in array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4looping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4recursion5arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4search,filter,sort array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5 no in arr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5aggregating func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5decoops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5oct.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5special methd in our classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6 pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6decoops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7linked list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7pandas col transformation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8 shortest combfor targetsum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8pandas merge, join,concanate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9 targetstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9&amp;12nov (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.9&amp;12nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9nov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ACESV (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.BFS maze (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Binary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Englishruler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hash set and map (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hash set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Held-karp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Held-karp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.I BFSmaze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max subaray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.POKE API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Phone Number Details using python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subset Sum Problem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abonly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add remove ele in arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add,sub cost.executor&quot;: &quot;Run&quot;,
+    &quot;Python.allpossiblepath.executor&quot;: &quot;Run&quot;,
+    &quot;Python.anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.area calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.array of products of ele except self.executor&quot;: &quot;Run&quot;,
+    &quot;Python.array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ascichar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.asignment conditional statment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment graded.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atilia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bal parenthesis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.banking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biggestbar__in_barcode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binaryequivalent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binarysearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buysellstock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buywith_k_coins.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp collection of objects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp inherit3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp inheritance2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp passby variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp reference variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp relatioship bet classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp super.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camp types of inheritence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.campoperator and method overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.campus static method and var.executor&quot;: &quot;Run&quot;,
+    &quot;Python.campuscreatingfraction class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.campusoop_encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.campusoop_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chaiwala.executor&quot;: &quot;Run&quot;,
+    &quot;Python.childlist (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.circularmain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classs variable instance variable (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.classs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coding practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coinai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coins.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coinsused.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combination1 of k items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional statementloop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional subarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.congeek.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consonant after vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.const bintree from linkedl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conways (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.conways.executor&quot;: &quot;Run&quot;,
+    &quot;Python.corona puchaspow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countinversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countinversions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create enumerate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createclass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createdict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createfunc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createlambda,arrays (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.createlambda,arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createtuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dance night.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datastructure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datetim (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.datetime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.def.executor&quot;: &quot;Run&quot;,
+    &quot;Python.descmergesort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.descquiksort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detecting gun.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfgdg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfgfdg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfsbacktrck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diagonal_sum).executor&quot;: &quot;Run&quot;,
+    &quot;Python.diagonalcrossingthekey.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dijikstra algo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.div.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dynamic  array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dynamic prog.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.election.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encode and decode strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enumerate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex13.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ex14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptionhandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fib nos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fib.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandlingassign.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandlingassign2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find 3 min and 3 max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find begendcount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findsuma,b fortarget.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fjh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flip_row_invert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forr (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.freqk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gasstationbest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gcd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generatesubsequences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.giftpurchase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.githubcon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gitpygame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.google map djikstra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graded3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gradedassignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graph valid tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grass4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.grass4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.greedy bfs (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.greedy bfs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.group anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hash neural.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapify up.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapqexp (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.heapwith_key_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.how many integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.icecream-coldrinks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifduplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.imaje.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inc_mergesort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheri method overiding6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init uses.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input dict matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input username pass (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.input2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputsimple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insertion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.join  func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.join.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kth smallest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kth smallest2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda,.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambdafunc sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.largestsubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linkmain (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.list (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.list comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list create.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longest possible route.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longest_consecutive_sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.low and up notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.make leaderboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.map alphtoint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masai election.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math operations and functions on array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix row col diag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrixa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max and min.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mazeai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merging arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mid2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.midencryption.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min bet0&amp;1000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_platform required.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.model (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.money and shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.muliplitable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newindex.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.note upperbound.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nqueen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nqueens_byrow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nump (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.nump.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oct1819qa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oddsum even sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oopss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ordered items after removing rejected.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pallindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandasihr (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.parallel working.executor&quot;: &quot;Run&quot;,
+    &quot;Python.partyor not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.permutationconditional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.permutaton1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pivas1st.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymerphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.power.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime no.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prims.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.productofarray_exceptself.executor&quot;: &quot;Run&quot;,
+    &quot;Python.proj 1 life.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.que.executor&quot;: &quot;Run&quot;,
+    &quot;Python.query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quick.executor&quot;: &quot;Run&quot;,
+    &quot;Python.randoms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.range,2dlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rat path.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rec insertion and del linklist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reduce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regular,class and static methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rev21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rev_byrotation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revnum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.roundtable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sal_exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seat arrangement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sherlock suit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shortest path with obstacles usimg que.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting_desc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soting index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spiderman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spiral traversal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack using arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stair steps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.staircase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stock max min.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringaddition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringcreate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.subset sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sukoku_rule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum by recurion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum in matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of ist n.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of n nos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of two equals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of two is k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum two (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sumofpairs_closestto_k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sumpair less than k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.super uses.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t.executor&quot;: &quot;Run&quot;,
+    &quot;Python.t2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tall building.executor&quot;: &quot;Run&quot;,
+    &quot;Python.targetsuminarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ternaryoperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tesst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tesst11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test54.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tic_tac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tim.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time measure.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkint by classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinterproj (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinterproj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.top freq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.traversing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treecut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trees.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tribonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uiiu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.username pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validate bst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validate_binarytree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visiting city.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wall area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zed shaw.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/masai/coding/leetcode&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\PycharmProjects\masai\coding\leetcode" />
@@ -603,52 +566,8 @@
       <recent name="C:\Users\lenovo\PycharmProjects\masai\1 -Python projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quick">
-    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Masai" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/coding/leetcode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/leetcode/anagram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="password_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Masai" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 -Python projects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 -Python projects/password_manager.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="quick" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sumofpairs_closestto_k">
+    <configuration name="sorted index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -661,7 +580,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/sorting/quick.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\masai\dsa\sorting\sorted index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -670,7 +590,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum of n nos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sorting_desc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/sorting/sorting_desc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="soting index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/sorting/soting index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sumofpairs_closestto_k" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Masai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/sorting/sumofpairs_closestto_k.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tesst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Masai" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -683,29 +672,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/sum of n nos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Masai" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 -Python projects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 -Python projects/test.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coding/tesst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -716,18 +684,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quick" />
-        <item itemvalue="Python.sum of n nos" />
-        <item itemvalue="Python.password_manager" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.anagram" />
+        <item itemvalue="Python.sumofpairs_closestto_k" />
+        <item itemvalue="Python.sorting_desc" />
+        <item itemvalue="Python.soting index" />
+        <item itemvalue="Python.tesst" />
+        <item itemvalue="Python.sorted index" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+        <option value="bundled-python-sdk-7bb8055f9097-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28238.29" />
       </set>
     </attachedChunks>
   </component>
@@ -876,7 +844,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763036985600</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1764749215474</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1764749215474</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
