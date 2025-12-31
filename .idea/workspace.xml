@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406e68bc-0882-4433-a6e8-68e3f8a1d77e" name="Changes" comment="1st time">
-      <change afterPath="$PROJECT_DIR$/Cryptography/freecodecamp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding/tesst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/sortdesc_mergesort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/sorted index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/sorting_desc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/sorting/sumofpairs_closestto_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/design add and search words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding/leetcode/word_search2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 Ai projects/imaje.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Ai projects/imaje.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/sorting/soting index.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/sorting/soting index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oct/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/oct/stringg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/implementTrie.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/implementTrie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding/leetcode/word_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/coding/leetcode/word_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -695,7 +690,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-7bb8055f9097-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28238.29" />
+        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
       </set>
     </attachedChunks>
   </component>
@@ -852,7 +847,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764749215474</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="1st time">
+      <option name="closed" value="true" />
+      <created>1767004313996</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1767004313996</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
